@@ -1,0 +1,1001 @@
+Name,Style,StyleID,Size(L),OG,FG,ABV,IBU,Color,BoilSize,BoilTime,BoilGravity,Efficiency,MashThickness,SugarScale,BrewMethod,PrimaryTemp,BPOM
+Raw Hop APA,American Pale Ale,10,18.93,1.054,1.013,5.42,34.66,7.42,28.39,60,1.036,70.0,1.25,Specific Gravity,All Grain,1.25,2
+No9 Ultra Bitter11,Ordinary Bitter,118,21.0,1.058,1.015,5.71,14.05,32.87,11.0,60,1.111,35.0,2.6058383233532934,Specific Gravity,All Grain,2.6058383233532934,5
+Sheaman OktoFestbier,Oktoberfest/Märzen,115,19.87,1.054,1.013,5.3,26.02,7.66,26.5,60,1.04,80.0,1.25,Specific Gravity,All Grain,1.25,2
+Jason's IPA,American IPA,7,5.0,1.056,1.0170000000000001,5.1,29.05,5.43,8.5,70,1.033,80.0,3.5,Specific Gravity,All Grain,3.5,2
+Helles Bock,Maibock/Helles Bock,103,20.82,1.068,1.016,6.86,37.93,11.04,24.61,60,1.0590559783418778,75.0,2.065256410256411,Specific Gravity,All Grain,2.065256410256411,2
+Nelson pale ale ala vestbrygg?,American Pale Ale,10,15.0,1.051,1.0090000000000001,5.57,31.68,7.79,20.0,60,1.038,70.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+The City of Golden Promise,American IPA,7,20.82,1.0659999999999998,1.013,7.01,64.92,6.02,28.39,60,1.048,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Cedar Rock Porter,American Porter,11,20.82,1.057,1.013,5.76,63.51,25.37,24.61,60,1.048,70.0,1.8946646706586827,Specific Gravity,BIAB,1.8946646706586827,5
+Bunda Vienna,Vienna Lager,167,40.0,1.052,1.012,5.24,28.57,11.47,44.0,60,1.048,90.0,3.0,Specific Gravity,All Grain,3.0,2
+Ferment Saison  2,American Light Lager,9,19.0,1.07,1.015,7.26,27.55,4.29,22.0,60,1.061,70.0,2.5,Specific Gravity,All Grain,2.5,2
+Town Crier - Spruce Cream Ale,Cream Ale,45,20.82,1.058,1.0190000000000001,5.17,52.83,3.57,28.39,60,1.042,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Twin Saison,Saison,134,60.0,1.053,1.005,6.31,30.73,7.43,70.0,90,1.045,70.0,2.5,Specific Gravity,All Grain,2.5,2
+Yuengling 5.5 Beck's Party Maris Otter,Scottish Heavy,138,20.82,1.038,1.0090000000000001,3.85,11.23,12.41,26.5,60,1.03,35.0,1.8703389830508474,Specific Gravity,extract,1.8703389830508474,2
+Come to the Tart Side,Berliner Weisse,27,68.14,1.046,1.011,4.6,0.0,26.05,75.71,60,1.0390000000000001,70.0,1.5,Specific Gravity,All Grain,1.5,5
+Foundation Red #2,Irish Red Ale,92,37.85,1.056,1.012,5.81,21.22,13.67,45.42,60,1.047,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Tecay Lager #3,Czech Pale Lager,49,21.0,1.051,1.011,5.3,34.03,6.24,25.0,60,1.043,75.5,2.0,Specific Gravity,All Grain,2.0,2
+Awesome Recipe,California Common Beer,39,11.0,1.056,1.014,5.51,21.12,14.83,6.0,60,1.103,75.0,2.0911964601769917,Specific Gravity,Partial Mash,2.0911964601769917,2
+Belgian IPA,Belgian Specialty Ale,25,18.93,1.053,1.013,5.22,14.95,7.14,22.71,60,1.044,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Citra IPA,American IPA,7,11.36,1.054,1.014,5.31,43.16,4.22,28.39,60,1.022,70.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+2014 - 8/16 - Sherlock Stout  - Foreign Extr...,Foreign Extra Stout,72,20.82,1.078,1.0190000000000001,7.67,59.17,34.08,24.61,60,1.0659999999999998,77.0,1.33,Specific Gravity,All Grain,1.33,5
+Waterfall Black IPA,Specialty IPA: Black IPA,148,23.0,1.058,1.01,6.34,43.0,15.95,28.0,60,1.048,75.0,3.3,Specific Gravity,All Grain,3.3,2
+Citra Pale Ale,American Pale Ale,10,3.79,1.056,1.013,5.61,29.19,7.58,9.46,60,1.022,60.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+Amy's Saison,Saison,134,3.79,1.05,1.0090000000000001,5.39,37.59,3.66,6.62,60,1.0290000000000001,60.0,1.5,Specific Gravity,All Grain,1.5,2
+AD50 Rye,American IPA,7,23.0,1.058,1.012,5.99,62.52,8.37,26.0,60,1.051,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Gingerbread Pumpkin Porter,American Porter,11,681.37,1.07,1.018,6.86,66.45,32.04,681.37,90,1.07,75.0,1.5,Specific Gravity,All Grain,1.5,5
+Odell 90 Shilling Clone,Scottish Export 80/-,137,19.87,1.067,1.022,5.84,29.43,12.86,11.36,90,1.047,80.0,1.818035714285714,Specific Gravity,extract,1.818035714285714,2
+ESB,Extra Special/Strong Bitter (ESB),68,15.0,1.055,1.015,5.18,37.07,9.74,19.0,60,1.043,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Basshook American Lager,American Lager,8,20.82,1.042,1.0090000000000001,4.43,20.11,3.65,15.14,60,1.058,50.0,2.0835766423357662,Specific Gravity,extract,2.0835766423357662,2
+Woodsey Brown,American Brown Ale,6,45.42,1.0659999999999998,1.018,6.23,87.02,19.34,52.62,60,1.057,80.0,1.45,Specific Gravity,All Grain,1.45,2
+Oatmeal Stout,Oatmeal Stout,114,20.82,1.053,1.015,4.99,36.06,34.36,11.36,60,1.0979999999999999,70.0,2.0342862385321103,Specific Gravity,Partial Mash,2.0342862385321103,5
+Vegard og Marit  Proper Job klone,American IPA,7,20.0,1.058,1.011,6.21,54.9,6.65,28.5,60,1.041,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Bourbon VIP,Baltic Porter,19,18.93,1.078,1.016,8.07,66.84,45.41,22.71,60,1.065,65.0,1.9569268292682924,Specific Gravity,Partial Mash,1.9569268292682924,6
+Honey Saison,Saison,134,18.93,1.072,1.002,9.12,13.89,4.96,25.17,80,1.041,70.0,2.037900446144041,Specific Gravity,BIAB,2.037900446144041,3
+Lake House Centennial IPA,American IPA,7,3.79,1.067,1.011,7.32,128.48,5.28,4.73,60,1.054,70.0,1.33,Specific Gravity,All Grain,1.33,2
+Riz Fiz Luck-o-the-Irish Stout,Irish Stout,93,22.71,1.048,1.013,4.55,38.47,27.5,22.71,60,1.048,35.0,2.098873417721519,Specific Gravity,Partial Mash,2.098873417721519,5
+Whiskey Barrel Sour Stout,American Stout,12,71.92,1.061,1.022,5.21,8.38,34.55,83.28,60,1.053,70.0,1.5,Specific Gravity,All Grain,1.5,5
+Pliney The Elder Clone,American IPA,7,41.64,1.073,1.0170000000000001,7.33,78.95,5.37,53.0,60,1.057,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Belgian Single,Belgian Pale Ale,24,23.0,1.045,1.01,4.52,46.02,3.1,28.5,60,1.036,65.0,2.8,Specific Gravity,All Grain,2.8,2
+Dawson Kriek,Fruit Lambic,77,18.93,1.052,1.012,5.25,18.47,3.9,28.39,70,1.035,70.0,2.0,Specific Gravity,All Grain,2.0,2
+Black Porter,American Porter,11,41.64,1.06,1.018,5.5,26.55,39.25,49.21,60,1.051,79.0,1.1,Specific Gravity,All Grain,1.1,5
+Angry August IPA (spring peeper modified)...,American IPA,7,22.71,1.051,1.012,5.11,130.02,8.43,30.28,60,1.038,65.0,1.5,Specific Gravity,All Grain,1.5,2
+IPA,American IPA,7,23.66,1.004,1.001,0.42,0.0,0.64,30.28,60,1.003,72.0,1.25,Specific Gravity,All Grain,1.25,1
+Belgian Pecan Porter,Robust Porter,129,20.82,1.081,1.02,7.96,51.64,35.58,28.39,60,1.0590000000000002,75.0,1.5,Specific Gravity,All Grain,1.5,5
+Pellet Stove Winter Warmer,Holiday/Winter Special Spiced Beer,85,20.82,1.0590000000000002,1.016,5.61,43.36,20.56,28.39,60,1.043,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Awesome Recipe,Irish Red Ale,92,56.78,1.061,1.0170000000000001,5.69,0.0,20.54,75.71,60,1.046,70.0,1.5,Specific Gravity,All Grain,1.5,2
+WIP: IPH,Weizen/Weissbier,170,22.71,1.0490000000000002,1.012,4.78,85.29,5.1,28.39,65,1.0390000000000001,73.0,1.5,Specific Gravity,All Grain,1.5,2
+Two hearted cheat,American IPA,7,22.71,1.071,1.02,6.7,82.22,12.0,26.5,75,1.061,80.0,0.75,Specific Gravity,All Grain,0.75,2
+Pliny The Elder,American IPA,7,22.71,1.0759999999999998,1.012,8.44,259.62,6.33,28.39,90,1.061,80.0,2.0243738248981953,Specific Gravity,All Grain,2.0243738248981953,3
+Base Camp Stout,American Stout,12,17.03,1.091,1.02,9.34,8.65,50.0,28.39,150,1.0490000000000002,76.0,1.8763916786226682,Specific Gravity,BIAB,1.8763916786226682,6
+After Midnight,Foreign Extra Stout,72,20.82,1.084,1.023,7.99,67.86,39.56,27.44,60,1.063,80.0,1.85,Specific Gravity,All Grain,1.85,5
+ORo 1664,American Wheat or Rye Beer,15,25.0,1.053,1.011,5.45,21.36,5.12,28.75,90,1.046,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Awesome Recipe,American IPA,7,9.46,1.061,1.018,5.54,46.66,7.74,17.03,60,1.034,2.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Brown Motha' Fugga',American Brown Ale,6,20.82,1.0959999999999999,1.024,9.43,27.37,32.3,11.36,60,1.176,35.0,1.9293349131121658,Specific Gravity,extract,1.9293349131121658,6
+5 Gal Bucksnort Brown Ale (Extract),American Light Lager,9,20.82,1.052,1.013,5.13,0.0,23.43,11.36,60,1.095,75.0,2.1850179985601157,Specific Gravity,Partial Mash,2.1850179985601157,2
+Chocolate Porter 01,Brown Porter,37,11.36,1.057,1.015,5.65,60.02,28.66,15.14,90,1.043,74.0,1.5,Specific Gravity,All Grain,1.5,5
+Vanilla Bourbon Winter Ale,American Amber Ale,4,18.93,1.045,1.011,4.42,28.27,18.68,7.57,60,1.112,75.0,2.1336110307414087,Specific Gravity,All Grain,2.1336110307414087,2
+Bourbon Baby,Scottish Light,140,20.82,1.051,1.012,5.16,26.91,25.82,28.39,60,1.037,70.0,1.55,Specific Gravity,All Grain,1.55,5
+Generic ESB,Strong Bitter,159,10.0,1.043,1.011,4.19,40.02,15.44,13.0,60,1.033,70.0,2.3818980263157896,Specific Gravity,BIAB,2.3818980263157896,2
+Bass Section IPA IV,American IPA,7,41.64,1.056,1.011,5.92,139.42,15.64,51.1,60,1.046,70.0,1.25,Specific Gravity,All Grain,1.25,2
+IIPA - Imperial India Pale Ale,Double IPA,56,54.89,1.068,1.015,6.92,177.94,12.06,68.14,90,1.055,69.0,1.5,Specific Gravity,All Grain,1.5,2
+Head First Copper King Red Ale,American Amber Ale,4,37.85,1.064,1.013,6.79,46.16,11.23,49.21,90,1.0490000000000002,75.0,1.4,Specific Gravity,All Grain,1.4,2
+Newborn Hazy IPA,American IPA,7,41.64,1.075,1.023,6.77,60.22,5.71,45.42,60,1.069,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Squirrel nutz 2,American Brown Ale,6,35.96,1.069,1.023,6.06,40.04,26.44,28.39,75,1.088,80.0,1.5,Specific Gravity,All Grain,1.5,5
+PB Porter,Brown Porter,37,28.39,1.083,1.024,7.75,96.27,45.95,32.18,60,1.073,90.0,1.5,Specific Gravity,All Grain,1.5,5
+Bohemian pilsner,Bohemian Pilsener,31,75.71,1.062,1.0170000000000001,5.93,20.12,4.57,81.39,90,1.058,80.0,1.5,Specific Gravity,All Grain,1.5,2
+Shop Smart  Shop S-Mart,American Wheat Beer,14,20.82,1.067,1.016,6.77,102.37,4.82,28.39,60,1.0490000000000002,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Jalapeño Saison,Saison,134,21.77,1.058,1.01,6.22,36.68,5.41,26.5,75,1.047,75.0,1.33,Specific Gravity,All Grain,1.33,2
+BOO!!!   aka  Big Ol' Octoberfest,Oktoberfest/Märzen,115,20.82,1.07,1.018,6.91,41.2,9.8,26.5,60,1.0561625926065723,75.0,1.7476525821596247,Specific Gravity,All Grain,1.7476525821596247,2
+FPPA,American Pale Ale,10,18.93,1.065,1.016,6.37,43.11,5.01,26.5,60,1.046,70.0,1.15,Specific Gravity,All Grain,1.15,2
+Bitchen Bitter,Strong Bitter,159,11.36,1.058,1.015,5.74,22.69,9.71,13.25,60,1.05,35.0,2.3818980263157896,Specific Gravity,extract,2.3818980263157896,2
+Oatel California,American Pale Ale,10,20.82,1.07,1.018,6.83,68.86,5.37,28.39,60,1.051,70.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+Milk Stout,Sweet Stout,162,18.93,1.055,1.02,4.64,22.51,36.94,17.03,60,1.055,65.0,2.0088648111332006,Specific Gravity,Partial Mash,2.0088648111332006,5
+Stone Pale Ale Clone,American Pale Ale,10,37.85,1.045,1.005,5.21,0.0,14.13,45.42,60,1.0365439035861774,75.0,2.2804632561436686,Specific Gravity,All Grain,2.2804632561436686,2
+Awesome Recipe,American Pale Ale,10,18.93,1.0590000000000002,1.0170000000000001,5.59,46.41,7.14,18.93,60,1.0590000000000002,80.0,2.2804632561436686,Specific Gravity,All Grain,2.2804632561436686,2
+Imperial RyePA,Specialty IPA: Rye IPA,151,20.82,1.069,1.012,7.53,64.48,5.64,27.44,90,1.052,62.0,1.9418509615384616,Specific Gravity,BIAB,1.9418509615384616,2
+Winter wolf warmer,Russian Imperial Stout,132,17.03,1.0979999999999999,1.022,9.89,79.29,39.71,9.46,60,1.110454165857123,70.0,1.8851853932584286,Specific Gravity,Partial Mash,1.8851853932584286,6
+Bakke brygg 55 liter amber,American Amber Ale,4,55.0,1.052,1.01,5.44,37.21,11.62,65.0,60,1.044,68.0,3.0,Specific Gravity,All Grain,3.0,2
+Nor' Easter IPA,American IPA,7,20.82,1.074,1.015,7.74,98.52,4.71,28.39,60,1.054,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Pale Ale,English IPA,65,24.61,1.047,1.01,4.88,49.91,8.75,28.39,60,1.041,63.0,1.6,Specific Gravity,All Grain,1.6,2
+Blood Red,Imperial IPA,86,25.0,1.052,1.01,5.54,41.57,15.84,18.0,60,1.072,60.0,1.808331280788176,Specific Gravity,All Grain,1.808331280788176,2
+Zehnpfennig Alt,Altbier,1,18.93,1.051,1.012,5.16,43.2,14.67,24.61,60,1.0390000000000001,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Awesome Recipe,English IPA,65,37.85,1.056,1.013,5.72,19.85,17.1,47.32,60,1.045,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Mosaic SMASH,American IPA,7,24.61,1.074,1.015,7.65,124.65,4.59,29.34,75,1.062,70.0,1.2,Specific Gravity,All Grain,1.2,2
+American Honey Ale,American Amber Ale,4,18.93,1.0590000000000002,1.014,5.9,48.44,3.99,15.14,60,1.0693389117097771,75.0,2.1336110307414087,Specific Gravity,extract,2.1336110307414087,2
+Double Down,American IPA,7,28.0,1.06,1.01,6.51,53.04,9.94,25.0,60,1.067,73.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Mac's - King Shaka Azacca IPA,American IPA,7,11.36,1.075,1.014,7.99,63.76,9.47,15.14,60,1.056,72.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Black Hefe,American Light Lager,9,11.36,1.056,1.014,5.51,28.23,27.97,15.14,60,1.042,84.0,2.1850179985601157,Specific Gravity,BIAB,2.1850179985601157,5
+Bream Brown Ale,Northern English Brown,113,18.93,1.0490000000000002,1.014,4.6,25.95,20.24,24.61,60,1.037,80.0,1.25,Specific Gravity,All Grain,1.25,2
+Belgian White,Witbier,175,18.93,1.055,1.013,5.47,7.1,3.97,1.89,60,1.5,70.0,1.4,Specific Gravity,All Grain,1.4,2
+El Dorado Session IPA,American IPA,7,87.06,1.045,1.011,4.48,36.05,6.12,105.99,60,1.037,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Schitzengiggles,Munich Dunkel,108,499.67,1.054,1.012,5.51,26.42,17.73,526.17,60,1.051,80.0,1.5,Specific Gravity,All Grain,1.5,2
+Pineapple Chardonnay Sour,Saison,134,22.71,1.053,1.0090000000000001,5.73,33.81,4.63,26.5,60,1.045,70.0,2.037900446144041,Specific Gravity,All Grain,2.037900446144041,2
+Gruppy's IPA,American IPA,7,22.71,1.0659999999999998,1.011,7.15,61.31,4.42,28.39,60,1.052,85.0,1.5,Specific Gravity,All Grain,1.5,2
+Gumballhead,American Wheat or Rye Beer,15,20.82,1.057,1.0170000000000001,5.25,26.59,6.21,28.39,60,1.042,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Monkey Weiss,Weizen/Weissbier,170,25.0,1.031,1.004,3.55,16.41,2.29,38.0,60,1.02,70.0,3.6,Specific Gravity,All Grain,3.6,2
+RED ALE,Irish Red Ale,92,20.82,1.051,1.015,4.81,28.54,5.64,28.39,60,1.038,75.0,2.0,Specific Gravity,All Grain,2.0,2
+English Dark Mild,Dark Mild,53,20.82,1.033,1.008,3.22,23.45,15.89,28.39,60,1.024,75.0,1.5,Specific Gravity,All Grain,1.5,2
+CFG - Wheat,American Wheat Beer,14,20.82,1.063,1.015,6.3,27.99,4.6,11.36,60,1.074,75.0,1.9064315245478038,Specific Gravity,Partial Mash,1.9064315245478038,2
+Pacto Redux (Citra e.),American Pale Ale,10,30.0,1.047,1.008,5.05,40.57,9.08,30.0,60,1.047,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Pilsner,German Pilsner (Pils),81,20.0,1.045,1.0090000000000001,4.82,33.75,4.35,26.0,80,1.035,65.0,4.0,Specific Gravity,All Grain,4.0,2
+Sour Melk,Berliner Weisse,27,24.61,1.042,1.01,4.18,33.28,3.31,28.39,60,1.024,75.0,1.33,Specific Gravity,All Grain,1.33,2
+Apple Ale,American Light Lager,9,208.2,1.046,1.0090000000000001,4.9,10.33,6.77,215.77,15,1.0390000000000001,35.0,2.1850179985601157,Specific Gravity,extract,2.1850179985601157,2
+Turtle Ale,American Amber Ale,4,18.93,1.064,1.015,6.43,50.21,17.04,9.46,60,1.128,35.0,2.1336110307414087,Specific Gravity,extract,2.1336110307414087,2
+Saison de Wadmalaw,Saison,134,20.82,1.061,1.018,5.61,20.8,3.37,26.5,60,1.048,35.0,2.037900446144041,Specific Gravity,extract,2.037900446144041,2
+Otter ESB,Best Bitter,28,3.41,1.065,1.016,6.37,38.75,11.2,9.84,60,1.022,70.0,2.5572614107883824,Specific Gravity,BIAB,2.5572614107883824,2
+Gingered ALe,Spice  Herb  or Vegetable Beer,155,20.82,1.043,1.011,4.22,48.75,17.33,28.39,60,1.031,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Heady Nugs,Imperial IPA,86,18.93,1.095,1.024,9.39,106.71,8.08,11.36,60,1.159,70.0,1.808331280788176,Specific Gravity,Partial Mash,1.808331280788176,3
+Celia,Old Ale,116,20.82,1.069,1.0190000000000001,6.52,7.32,4.95,28.39,60,1.051,80.0,1.5,Specific Gravity,All Grain,1.5,2
+Harkrank,Specialty IPA: Black IPA,148,15.0,1.068,1.016,6.86,86.51,37.47,20.0,60,1.051,70.0,2.212826315789474,Specific Gravity,BIAB,2.212826315789474,5
+Saison Test #3,Saison,134,40.0,12.4568,2.10692,5.52,24.91,5.65,44.0,60,11.4,75.0,2.0,Plato,All Grain,2.0,2
+Mosaic Pale Ale,American Pale Ale,10,10.0,1.0490000000000002,1.0090000000000001,5.16,36.61,7.0,7.0,60,1.069,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+Harold-is-weizen,Weissbier,169,23.0,1.05,1.012,4.89,12.58,3.07,26.0,90,1.044,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Brother's keeper,Saison,134,8.0,1.055,1.01,5.88,31.75,4.27,9.0,60,1.0490000000000002,70.0,2.037900446144041,Specific Gravity,BIAB,2.037900446144041,2
+ZeroFiveOhTwoIpa,Munich Helles,109,21.0,1.05,1.0090000000000001,5.43,59.5,3.84,28.5,60,1.037,69.0,2.0239450000000003,Specific Gravity,BIAB,2.0239450000000003,2
+Blaby Hitter,American IPA,7,23.0,1.06,1.01,6.54,66.45,7.27,28.5,60,1.0490000000000002,85.0,2.5,Specific Gravity,All Grain,2.5,2
+Oat-Meal Cherry Stout,Oatmeal Stout,114,62.0,1.046,1.008,5.01,23.15,31.03,75.0,60,1.038,80.0,3.0,Specific Gravity,All Grain,3.0,5
+Maple-Fest Oatmeal Stout,Oatmeal Stout,114,4.16,1.058,1.018,5.37,41.54,31.04,2.84,60,1.0859999999999999,50.0,2.0342862385321103,Specific Gravity,All Grain,2.0342862385321103,5
+Crackin Mild,Dark Mild,53,20.82,1.038,1.013,3.2,23.27,24.05,26.5,60,1.03,75.0,1.5,Specific Gravity,All Grain,1.5,5
+10. Fanta 012 (X minus one) 130615,American Pale Ale,10,26.0,1.046,1.013,4.34,37.66,4.3,28.5,60,1.042,65.0,2.8,Specific Gravity,All Grain,2.8,2
+Turning Point APA,American IPA,7,20.82,1.055,1.015,5.19,58.41,3.73,28.39,60,1.04,70.0,1.5,Specific Gravity,All Grain,1.5,2
+The Old Cookie,Altbier,1,19.87,1.053,1.0170000000000001,4.8,15.98,5.16,11.36,60,1.093,35.0,2.080822222222223,Specific Gravity,extract,2.080822222222223,2
+Amber Otter,American Amber Ale,4,117.35,1.058,1.014,5.81,35.01,14.45,124.92,60,1.054,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Prima Pilsner,German Pils,80,23.0,1.052,1.008,5.67,33.54,3.93,30.0,90,1.04,72.0,3.7,Specific Gravity,All Grain,3.7,2
+ESB,Extra Special/Strong Bitter (ESB),68,21.0,1.063,1.018,5.94,49.97,8.4,36.0,90,1.037,65.0,2.1674527777777786,Specific Gravity,BIAB,2.1674527777777786,2
+Coconut Porter,Brown Porter,37,23.0,1.054,1.014,5.33,17.48,33.85,11.4,60,1.109,35.0,2.1009784482758618,Specific Gravity,extract,2.1009784482758618,5
+3 Grain APA,American Pale Ale,10,22.71,1.055,1.014,5.35,40.92,9.95,26.5,60,1.047,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Double A's Easy 10G,Experimental Beer,67,37.85,1.052,1.014,5.01,44.32,3.59,45.42,60,1.043,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Stout,Oatmeal Stout,114,21.0,1.053,1.014,5.21,50.12,45.41,30.0,60,1.037,60.0,2.855,Specific Gravity,All Grain,2.855,5
+Flat tire ,Classic American Pilsner,40,23.5,1.0490000000000002,1.008,5.32,39.31,5.73,28.0,60,1.041,68.0,2.2109482758620693,Specific Gravity,All Grain,2.2109482758620693,2
+Hop Back Otter IPA,American IPA,7,20.82,1.069,1.013,7.35,90.91,8.91,26.5,60,1.054,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Pilgrim smash,British Golden Ale,35,9.0,1.044,1.0070000000000001,4.86,31.44,5.25,10.0,60,1.04,70.0,2.5,Specific Gravity,All Grain,2.5,2
+GB032,American Pale Ale,10,35.0,1.047,1.014,4.38,31.19,5.96,38.0,75,1.043,81.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+Foley's Black IPA,American IPA,7,37.85,1.071,1.0170000000000001,7.11,124.49,50.0,49.21,60,1.015,70.0,1.255,Specific Gravity,All Grain,1.255,5
+Scullin Wild Beer,Wild Specialty Beer,173,6.0,1.05,1.01,5.22,12.71,5.55,8.0,30,1.038,60.0,3.0,Specific Gravity,All Grain,3.0,2
+Buck shelford,Russian Imperial Stout,132,20.1,1.092,1.032,7.87,54.62,43.72,6.0,60,1.084,25.0,1.8851853932584286,Specific Gravity,extract,1.8851853932584286,5
+MC Porter 12/31,Robust Porter,129,21.8,1.061,1.012,6.5,48.34,35.86,11.36,60,1.117,35.0,1.9681428571428576,Specific Gravity,extract,1.9681428571428576,5
+Simple Hefe /w Paulaner Yeast,Weissbier,169,18.93,1.052,1.013,5.21,17.14,3.23,22.71,60,1.044,68.0,2.677646655231561,Specific Gravity,BIAB,2.677646655231561,2
+Braumeister IPA 50L 25L Batch,American IPA,7,25.0,1.052,1.01,5.5,68.62,6.35,30.0,80,1.043,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Albino Python IPA,American IPA,7,776.01,1.069,1.022,6.25,177.32,4.75,794.94,90,1.068,82.0,1.5,Specific Gravity,All Grain,1.5,2
+The Beach Some-What Wheat,Specialty Beer,145,20.82,1.047,1.011,4.68,29.14,3.47,11.36,60,1.0738002734388103,45.0,1.7723979591836736,Specific Gravity,extract,1.7723979591836736,2
+GYLE 007,Saison,134,20.0,1.0290000000000001,1.005,3.18,33.0,3.78,24.4,90,1.024,35.0,2.9,Specific Gravity,All Grain,2.9,2
+Bracket Buster IPA,American IPA,7,18.93,1.073,1.016,7.44,64.24,6.78,28.39,60,1.0490000000000002,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Ambar,Traditional Bock,163,43.0,1.067,1.015,6.81,20.68,17.8,55.0,70,1.053,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Groom's IPA,American IPA,7,37.85,1.062,1.016,6.07,80.64,9.29,47.32,60,1.0490000000000002,75.0,1.75,Specific Gravity,All Grain,1.75,2
+Patagonian Ale,American Strong Ale,13,24.61,1.083,1.026,7.53,86.11,19.2,32.18,90,1.064,83.0,1.5,Specific Gravity,All Grain,1.5,2
+Cucumber Rhode,Weissbier,169,19.87,1.054,1.015,5.13,28.15,6.09,11.36,60,1.095,70.0,2.677646655231561,Specific Gravity,Partial Mash,2.677646655231561,2
+Robust Porter,Robust Porter,129,20.8,15.3148,4.4522699999999995,5.9,31.73,28.14,28.4,60,11.4,70.0,3.0,Plato,All Grain,3.0,5
+Winter Habnero Chili,American Light Lager,9,22.71,1.0859999999999999,1.0090000000000001,10.2,37.51,5.1,28.39,60,1.069,70.0,1.5,Specific Gravity,All Grain,1.5,3
+Brewdog Trashy Blonde,Blonde Ale,30,18.0,1.046,1.0090000000000001,4.9,44.05,4.77,21.0,60,1.04,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Coffee Stout,American Stout,12,45.42,1.0759999999999998,1.0190000000000001,7.49,47.95,41.87,39.75,60,1.087,80.0,1.3,Specific Gravity,All Grain,1.3,5
+Nunhead in Spring ESB,Extra Special/Strong Bitter (ESB),68,20.82,1.057,1.012,5.88,45.03,9.38,28.39,60,1.042,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Julius Pettersens Juleøl,British Strong Ale,36,25.0,1.0659999999999998,1.022,5.74,40.56,26.3,32.0,90,1.051,70.0,3.0,Specific Gravity,All Grain,3.0,5
+Sweet Bliss,American Pale Ale,10,20.82,1.056,1.013,5.6,34.3,6.76,28.39,90,1.041,75.0,14.0,Specific Gravity,All Grain,14.0,2
+Irish Red Ale,Irish Red Ale,92,18.93,1.044,1.01,4.54,33.67,12.11,22.71,60,1.037,35.0,2.2631598877980363,Specific Gravity,extract,2.2631598877980363,2
+Thanks for the Mammaries,Sweet Stout,162,18.93,1.07,1.022,6.25,32.6,37.9,13.25,60,1.1,70.0,2.0088648111332006,Specific Gravity,Partial Mash,2.0088648111332006,5
+Smoked Winter Warmer v2,Specialty Smoked Beer,153,18.93,1.06,1.014,5.99,35.7,19.87,24.61,60,1.046,65.0,1.5,Specific Gravity,All Grain,1.5,2
+Imperial IPA #4,American IPA,7,20.82,1.082,1.025,7.45,33.37,7.51,24.61,60,1.07,75.0,1.5,Specific Gravity,All Grain,1.5,2
+That's My Pliny,Imperial IPA,86,22.71,1.072,1.02,6.82,102.73,6.33,32.18,90,1.051,70.0,1.375,Specific Gravity,All Grain,1.375,2
+Rye saison,California Common Beer,39,22.71,1.071,1.014,7.48,33.22,13.57,30.28,60,1.053,75.0,1.4,Specific Gravity,All Grain,1.4,2
+106 Bozark wheat,American Wheat or Rye Beer,15,21.96,1.053,1.0090000000000001,5.88,36.25,4.17,30.28,90,1.0390000000000001,65.0,1.70597609561753,Specific Gravity,All Grain,1.70597609561753,2
+Simple Sour,Weissbier,169,19.0,1.044,1.011,4.36,10.33,3.29,19.0,60,1.044,35.0,2.677646655231561,Specific Gravity,extract,2.677646655231561,2
+India Rye Lager 2,Premium American Lager,124,19.87,1.055,1.014,5.34,72.91,4.41,27.44,60,1.04,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Tribute to the dunes version 2,Belgian Dubbel,22,18.93,1.075,1.015,7.94,32.66,16.62,26.5,90,1.054,70.0,2.1172939189189193,Specific Gravity,BIAB,2.1172939189189193,2
+Simcoe Pale Ale,American Pale Ale,10,22.71,1.0490000000000002,1.012,4.88,38.87,5.61,28.39,90,1.0390000000000001,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Even More Jesus,Imperial Stout,87,20.0,1.1059999999999999,1.028,10.23,57.82,50.0,28.5,90,1.075,80.0,3.0,Specific Gravity,All Grain,3.0,6
+Kern,Saison,134,24.61,1.055,1.016,5.2,28.85,3.23,30.28,90,1.045,70.0,1.5,Specific Gravity,All Grain,1.5,2
+RFH IPA v1,American IPA,7,19.0,1.069,1.021,6.23,75.07,12.28,23.0,60,1.057,70.0,2.0243738248981953,Specific Gravity,All Grain,2.0243738248981953,2
+Christmas Eve Nightcap,Winter Seasonal Beer,174,3.79,1.052,1.013,5.16,12.44,26.04,3.79,60,1.052,35.0,1.970217391304347,Specific Gravity,extract,1.970217391304347,5
+Lupuleros Schwarzbier,Schwarzbier,135,37.85,1.048,1.008,5.27,24.31,26.03,43.91,60,1.042,80.0,1.5,Specific Gravity,All Grain,1.5,5
+Hopped and Popped,American IPA,7,17.03,1.0590000000000002,1.016,5.66,68.94,6.56,20.44,30,1.0490000000000002,62.0,1.6,Specific Gravity,All Grain,1.6,2
+Hefeweizen (Wheat Light Beer),Weizen/Weissbier,170,20.0,1.053,1.015,5.0,11.5,3.9,22.0,80,1.048,78.0,4.65,Specific Gravity,All Grain,4.65,2
+#snowzilla (extract),American IPA,7,18.93,1.057,1.014,5.62,43.58,8.11,11.36,60,1.025,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Magic Hat Jinx,Scottish Export 80/-,137,18.93,1.067,1.014,6.98,22.94,13.71,15.14,90,1.084,75.0,1.818035714285714,Specific Gravity,All Grain,1.818035714285714,2
+Summer Blonde,Blonde Ale,30,20.82,1.053,1.012,5.34,23.93,5.53,28.39,60,1.037283884767782,70.0,2.2130735220729356,Specific Gravity,All Grain,2.2130735220729356,2
+Ray Kölsch,Kölsch,94,18.0,1.048,1.0090000000000001,5.15,26.17,3.83,19.0,60,1.045,70.0,3.3,Specific Gravity,All Grain,3.3,2
+Max Chasing Bike Blake Barking IPA,American IPA,7,37.85,1.075,1.021,7.07,400.37,5.14,41.64,60,1.0710935449248886,70.0,2.0243738248981953,Specific Gravity,Partial Mash,2.0243738248981953,2
+RIS,Imperial Stout,87,13.25,1.102,1.0190000000000001,10.82,101.37,46.45,18.93,60,1.071,60.0,1.8478668171557562,Specific Gravity,BIAB,1.8478668171557562,6
+Test to determine a brewers question,American IPA,7,5.0,1.072,1.018,7.07,57.27,7.59,8.1,60,1.044,78.0,3.0,Specific Gravity,All Grain,3.0,2
+Red Cara Ale,Irish Red Ale,92,38.0,1.051,1.011,5.23,10.27,13.95,35.0,60,1.055,70.0,3.1,Specific Gravity,All Grain,3.1,2
+Srygley/Arnold Down Under IPA,American IPA,7,20.82,1.073,1.018,7.17,74.59,8.96,28.39,90,1.0540434321599153,75.0,2.0243738248981953,Specific Gravity,All Grain,2.0243738248981953,2
+Galaxy Extra Pale Ale,California Common Beer,39,18.93,1.057,1.0170000000000001,5.26,29.63,4.22,22.71,90,1.047,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Trigo  aveia  centeio e muito citra,American IPA,7,28.0,1.04,1.0070000000000001,4.38,44.0,4.63,33.0,60,1.034,70.0,2.5,Specific Gravity,All Grain,2.5,2
+APA version 1,American Pale Ale,10,25.0,1.048,1.0090000000000001,5.15,22.8,5.78,25.0,60,1.048,70.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+Dry Mead #1,Dry Mead,57,10.0,1.105,1.023,10.76,0.0,4.5,10.0,60,1.105,75.0,3.0,Specific Gravity,All Grain,3.0,3
+CASCADE FLOWER ALE,American Light Lager,9,21.0,1.042,1.011,4.16,0.0,5.08,28.5,60,1.031,70.0,5.0,Specific Gravity,All Grain,5.0,2
+House #01 - Hanson Hus Saison,Saison,134,20.82,1.053,1.016,4.91,26.54,2.68,22.71,60,1.0490000000000002,25.0,2.037900446144041,Specific Gravity,extract,2.037900446144041,2
+Weisse 01/17,Weissbier,169,21.0,1.0490000000000002,1.012,4.79,13.07,3.88,13.0,60,1.079,35.0,2.677646655231561,Specific Gravity,extract,2.677646655231561,2
+Peated porter,Robust Porter,129,18.93,1.061,1.015,6.01,50.6,36.43,24.61,60,1.047,35.0,1.9681428571428576,Specific Gravity,extract,1.9681428571428576,5
+Black Savage Stout,American Stout,12,22.71,1.054,1.015,5.11,71.28,46.53,27.52,90,1.044,55.0,1.5,Specific Gravity,All Grain,1.5,5
+Wry Kölsch,Kölsch,94,41.64,1.05,1.015,4.61,30.01,3.47,49.21,60,1.043,68.0,3.1,Specific Gravity,All Grain,3.1,2
+Session IPA,American IPA,7,19.87,1.045,1.008,4.75,32.56,5.5,23.66,60,1.038,75.0,1.5,Specific Gravity,All Grain,1.5,2
+OLD RASPUTIN,Imperial Stout,87,20.82,1.099,1.018,10.58,101.14,34.74,25.55,60,1.081,75.0,1.8478668171557562,Specific Gravity,BIAB,1.8478668171557562,6
+Not Normal - Wheat APA,Weissbier,169,18.93,1.0590000000000002,1.01,6.33,99.28,6.51,23.92,60,1.046,70.0,2.677646655231561,Specific Gravity,BIAB,2.677646655231561,2
+Densmore's Pale,American Pale Ale,10,20.82,1.048,1.013,4.59,38.3,5.21,11.36,60,1.089,25.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+Tom's Pale,American Pale Ale,10,20.82,1.048,1.0090000000000001,5.06,36.32,6.07,28.39,60,1.035,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Base Belgian Blonde (3B),Belgian Blond Ale,20,20.82,1.06,1.014,6.07,22.79,7.62,26.5,90,1.047,70.0,1.4,Specific Gravity,All Grain,1.4,2
+Tempe Closet DunkelWeizen,Dunkles Weissbier,61,20.82,12.8143,3.22808,5.14,20.15,15.34,26.5,60,10.2,70.0,1.25,Plato,All Grain,1.25,2
+Tripel / Allagash Curieux,Belgian Tripel,26,20.82,1.093,1.0190000000000001,9.69,31.68,4.31,26.5,90,1.073,75.0,1.25,Specific Gravity,All Grain,1.25,3
+Garcipa,American IPA,7,11.36,1.042,1.011,4.08,0.0,2.67,11.36,60,1.042,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Hoppy Days IPAYYYEEE,American IPA,7,22.71,1.0859999999999999,1.022,8.4,252.31,6.87,28.39,60,1.069,70.0,1.25,Specific Gravity,All Grain,1.25,3
+Merlin  a Berliner,Berliner Weisse,27,21.0,1.03,1.0070000000000001,3.08,6.17,3.16,28.0,60,1.023,70.0,2.0794583333333336,Specific Gravity,BIAB,2.0794583333333336,2
+German Pilsner,German Pilsner (Pils),81,25.0,1.041,1.01,4.02,30.95,4.78,28.0,60,1.036,60.0,3.0,Specific Gravity,All Grain,3.0,2
+Summertime Kölsch,Kölsch,94,20.82,1.056,1.013,5.65,31.24,4.33,30.28,120,1.038,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Summer Ale,British Golden Ale,35,21.0,1.0390000000000001,1.008,4.01,27.66,5.09,27.1,60,1.03,72.0,2.789354838709678,Specific Gravity,BIAB,2.789354838709678,2
+150415 Riskulla pilsner,Premium American Lager,124,30.0,1.052,1.012,5.3,20.48,5.3,33.0,70,1.048,90.0,3.0,Specific Gravity,All Grain,3.0,2
+Funky Butt Lovin',American IPA,7,21.77,1.062,1.011,6.67,53.19,5.16,27.44,60,1.0490000000000002,66.0,1.3,Specific Gravity,All Grain,1.3,2
+Mutt honey Wheat,California Common Beer,39,20.82,1.058,1.016,5.45,43.83,8.29,28.39,60,1.0415430673559873,70.0,2.0911964601769917,Specific Gravity,BIAB,2.0911964601769917,2
+Sorgham Whiskey,American Light Lager,9,20.82,1.1179999999999999,1.0270000000000001,11.94,0.0,3.92,28.39,60,1.087,35.0,1.5,Specific Gravity,All Grain,1.5,3
+Hurrican Saison,Saison,134,13.25,1.0590000000000002,1.011,6.36,26.5,8.27,17.03,65,1.0487671511510293,66.0,2.037900446144041,Specific Gravity,All Grain,2.037900446144041,2
+Punk Ass Pumpkin Ale,American Pale Ale,10,37.85,1.058,1.004,7.07,0.0,9.39,45.42,60,1.047301789740327,75.0,2.2804632561436686,Specific Gravity,All Grain,2.2804632561436686,2
+Black Butte Clone,American Porter,11,22.71,1.055,1.018,4.79,28.34,30.09,11.36,60,1.11,35.0,1.8946646706586827,Specific Gravity,extract,1.8946646706586827,5
+I Did It Pale Ale,American Pale Ale,10,18.93,1.053,1.01,5.61,39.59,6.63,26.5,90,1.038,78.0,2.2804632561436686,Specific Gravity,All Grain,2.2804632561436686,2
+Barefoot Amarillo by Morning - DIY BrewHouse...,American Pale Ale,10,20.82,1.051,1.011,5.22,48.23,7.2,25.55,60,1.042,70.0,1.3,Specific Gravity,All Grain,1.3,2
+Episode 009 - Edwort's Haus Pale Ale,American Pale Ale,10,18.93,1.054,1.012,5.62,44.76,4.79,26.5,60,1.0390000000000001,70.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+Pale Powder (CryoHop) IPA,American Pale Ale,10,11.36,1.062,1.0170000000000001,5.9,93.93,8.66,7.57,60,1.092,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+HALLOW1,American Amber Ale,4,28.39,1.058,1.015,5.66,34.7,19.65,41.64,60,1.0390000000000001,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Belgian Blonde,Belgian Blond Ale,20,20.82,1.072,1.021,6.58,22.73,4.09,13.25,60,1.113,35.0,2.331506237942122,Specific Gravity,extract,2.331506237942122,2
+Rye IPA (Muir Woods Competition),Specialty IPA: Rye IPA,151,3.79,1.056,1.0070000000000001,6.43,59.36,4.39,6.62,60,1.032,61.0,1.5,Specific Gravity,All Grain,1.5,2
+Stiles APA  (Big Ron's Brew),American Pale Ale,10,20.82,1.047,1.01,4.86,31.94,6.25,26.5,60,1.0368586229799435,70.0,2.2804632561436686,Specific Gravity,All Grain,2.2804632561436686,2
+Southern Breakfast Mk II,Mild,105,22.71,1.036,1.012,3.24,9.49,22.49,26.5,60,1.031,70.0,2.1,Specific Gravity,All Grain,2.1,2
+Awesome Recipe,American Pale Ale,10,23.0,1.047,1.012,4.6,43.06,3.88,26.5,60,1.041,85.0,3.0,Specific Gravity,All Grain,3.0,2
+BeHold A pale ale,American Pale Ale,10,20.82,1.05,1.0090000000000001,5.4,33.71,5.53,24.61,60,1.042,75.0,1.33,Specific Gravity,All Grain,1.33,2
+Russian River - Row 2 Hill 56 Clone,American Pale Ale,10,22.0,1.053,1.013,5.23,62.28,8.25,27.0,60,1.043,75.0,3.3,Specific Gravity,All Grain,3.3,2
+Regen 1 IPA,American IPA,7,18.93,1.072,1.013,7.74,97.24,6.57,28.39,60,1.048,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Krampus,Sweet Stout,162,18.93,1.062,1.014,6.32,26.31,47.36,28.39,60,1.042,70.0,1.5,Specific Gravity,All Grain,1.5,5
+Fläderöl 10l,Special/Best/Premium Bitter,144,10.0,1.045,1.0090000000000001,4.74,34.7,5.44,14.0,70,1.032,70.0,2.0,Specific Gravity,All Grain,2.0,2
+English ESB,Strong Bitter,159,22.0,1.064,1.0190000000000001,5.95,47.46,8.34,30.0,60,1.047,74.0,3.5,Specific Gravity,All Grain,3.5,2
+Mosaic Covenant DIPA,American IPA,7,20.82,1.075,1.0190000000000001,7.42,0.0,4.65,28.39,60,1.055,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Single-hop Centennial Double IPA,Double IPA,56,48.0,1.077,1.012,8.95,113.96,6.3,53.1,90,1.0590000000000002,72.0,4.0,Specific Gravity,All Grain,4.0,3
+1st try Daniel,American Light Lager,9,13.0,1.075,1.0170000000000001,7.55,53.07,4.16,10.0,60,1.097,80.0,2.1850179985601157,Specific Gravity,extract,2.1850179985601157,2
+80'S Reef,Scottish Export,136,14.0,14.0686,3.35641,5.95,25.31,15.89,23.0,70,8.7,70.0,2.0,Plato,All Grain,2.0,2
+Awesome Recipe,Oktoberfest/Märzen,115,18.93,1.055,1.014,5.42,24.96,9.75,11.36,90,1.092,75.0,1.7476525821596247,Specific Gravity,BIAB,1.7476525821596247,2
+Redex Red Ale,Irish Red Ale,92,20.0,1.034,1.006,3.72,28.25,10.6,28.5,60,1.024,65.0,3.0,Specific Gravity,All Grain,3.0,2
+Rochefort Huit,Belgian Dark Strong Ale,21,15.0,1.083,1.013,9.18,40.68,33.33,20.0,60,1.062,73.0,3.0,Specific Gravity,All Grain,3.0,6
+Brewers Bout Tripel,Belgian Tripel,26,15.33,1.073,1.003,9.14,37.97,4.32,21.77,90,1.051,75.0,2.0433617021276596,Specific Gravity,BIAB,2.0433617021276596,3
+Shindig Hefe,Weizen/Weissbier,170,18.93,1.045,1.005,5.19,17.17,3.62,22.71,60,1.037,60.0,1.5,Specific Gravity,All Grain,1.5,2
+Grisette Stone Clone,Brett Beer,33,10.22,1.064,1.013,6.75,28.21,4.79,13.25,60,1.05,70.0,1.7995238095238095,Specific Gravity,BIAB,1.7995238095238095,2
+Fast &Loose IPA 1-3-16,American IPA,7,18.93,1.057,1.015,5.55,155.95,9.46,26.5,60,1.041,65.0,1.5,Specific Gravity,All Grain,1.5,2
+Citra IPA,American IPA,7,19.87,1.07,1.018,6.88,51.1,9.32,23.66,60,1.0590000000000002,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Bakke Brygg Tsjekkisk Pilsner 28 l,Bohemian Pilsener,31,28.0,1.052,1.013,5.1,41.99,3.58,32.0,90,1.046,72.0,2.605132701421802,Specific Gravity,All Grain,2.605132701421802,2
+Tye dye,American Pale Ale,10,18.93,1.047,1.01,4.8,23.6,3.11,24.61,60,1.036,80.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+Standard Pale Ale,American Pale Ale,10,26.5,1.048,1.008,5.13,38.11,5.76,26.5,60,1.048,80.0,1.5,Specific Gravity,All Grain,1.5,2
+IPL #1,International Amber Lager,88,26.5,1.05,1.012,5.05,77.19,6.85,29.9,60,1.044,70.0,2.5,Specific Gravity,All Grain,2.5,2
+Capreta,Specialty IPA: Black IPA,148,37.0,1.06,1.011,6.42,75.49,39.33,50.0,60,1.045,60.0,1.5,Specific Gravity,All Grain,1.5,5
+Marco's Celibration IPA,American IPA,7,21.0,1.073,1.014,7.79,40.87,15.38,28.0,60,1.055,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Tripel A,Belgian Tripel,26,13.5,1.062,1.005,7.49,32.39,4.85,28.5,60,1.0290000000000001,61.0,3.5,Specific Gravity,All Grain,3.5,2
+2017 Brewers Challenge Tripel XXX,Belgian Tripel,26,17.98,1.08,1.012,8.86,31.44,4.82,22.71,60,1.063,70.0,1.5,Specific Gravity,All Grain,1.5,3
+Alaska Malamut,American IPA,7,35.0,1.085,1.016,9.05,55.77,3.9,35.0,90,1.085,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,3
+ALLIGATOR,American Strong Ale,13,15.2,1.0659999999999998,1.015,6.69,51.29,7.41,21.0,80,1.048,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Mild Mannered,Mild,105,39.75,1.032,1.0090000000000001,2.96,13.26,16.21,43.53,60,1.0290000000000001,85.0,1.4,Specific Gravity,All Grain,1.4,2
+Pumpkin Pie Ale,Spice  Herb  or Vegetable Beer,155,23.47,1.064,1.016,6.33,0.0,12.97,26.5,60,1.0585382019640575,75.0,1.25,Specific Gravity,All Grain,1.25,2
+CM Wit,Witbier,175,25.0,1.05,1.0090000000000001,5.41,16.75,3.05,32.0,90,1.0390000000000001,80.0,2.5,Specific Gravity,All Grain,2.5,2
+Kales Last Christmas,Holiday/Winter Special Spiced Beer,85,41.64,1.077,1.0190000000000001,7.54,34.88,27.71,49.21,60,1.065,85.0,1.2,Specific Gravity,All Grain,1.2,5
+Oktoberfest,Oktoberfest/Märzen,115,11.85,1.052,1.011,5.33,24.05,10.07,18.93,90,1.032,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Du Hast Mich,German Pils,80,26.5,1.048,1.01,4.94,34.06,2.98,33.69,60,1.038,75.0,2.031959677419355,Specific Gravity,BIAB,2.031959677419355,2
+Triple B - Bourbon Barrel Barley Wine,American Barleywine,5,18.93,1.102,1.023,10.33,54.02,16.61,28.39,120,1.068,70.0,1.25,Specific Gravity,All Grain,1.25,3
+3726 - Big Bad Wolf,Saison,134,25.0,1.055,1.0070000000000001,6.37,30.11,3.47,35.0,90,1.036,80.0,2.037900446144041,Specific Gravity,BIAB,2.037900446144041,2
+Holiday Ale,Holiday/Winter Special Spiced Beer,85,18.93,1.069,1.015,7.03,28.33,29.59,15.14,60,1.044,65.0,2.509152317880795,Specific Gravity,Partial Mash,2.509152317880795,5
+Wee Heavy,Wee Heavy,168,23.0,1.0759999999999998,1.02,7.31,34.32,20.39,27.0,60,1.065,64.0,2.050208333333333,Specific Gravity,All Grain,2.050208333333333,2
+Punk IPA pre 2010,American IPA,7,26.0,1.067,1.015,6.83,72.22,4.68,38.0,60,1.046,75.0,3.4,Specific Gravity,All Grain,3.4,2
+Russian River APA,American Pale Ale,10,28.0,1.046,1.01,4.66,39.78,5.14,32.0,60,1.04,70.0,2.5,Specific Gravity,All Grain,2.5,2
+Extra Special / Strong beer,Extra Special/Strong Bitter (ESB),68,20.82,13.3018,3.7110800000000004,5.16,45.01,9.6,28.39,60,9.9,79.0,1.5,Plato,All Grain,1.5,2
+Citra/Mosaic Pale,American IPA,7,9.46,1.067,1.012,7.27,76.94,6.11,15.14,60,1.042,70.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Vienna/Pilsner,German Pils,80,8.52,1.056,1.013,5.66,28.63,4.49,13.25,60,1.036,85.0,2.031959677419355,Specific Gravity,BIAB,2.031959677419355,2
+IPA Eisenbahn,American IPA,7,20.0,1.064,1.012,6.81,75.87,17.56,28.5,60,1.045,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Tessa Session,American Pale Ale,10,25.0,1.043,1.0070000000000001,4.75,40.26,14.4,30.5,60,1.036,60.0,4.0,Specific Gravity,All Grain,4.0,2
+Vanilla Almond Nut Brown,Specialty Beer,145,18.93,1.054,1.014,5.35,60.57,17.42,24.61,60,1.042,64.0,2.0,Specific Gravity,All Grain,2.0,2
+Takomo Oatmeal Milk Stout II,Sweet Stout,162,77.0,1.064,1.022,5.48,21.73,37.51,85.0,60,1.058,76.0,2.5,Specific Gravity,All Grain,2.5,5
+BBB,Best Bitter,28,1000.0,1.048,1.012,4.67,35.38,10.57,1006.0,60,1.048,78.0,2.5,Specific Gravity,All Grain,2.5,2
+Dry Dock Paragon Apricot Blonde,Blonde Ale,30,20.82,1.057,1.014,5.74,20.15,5.62,26.5,60,1.045,75.0,1.5,Specific Gravity,All Grain,1.5,2
+DIPA V2,Double IPA,56,19.0,1.075,1.015,7.98,135.97,6.74,25.0,90,1.057,65.0,2.5,Specific Gravity,All Grain,2.5,2
+Grandma's secret stash,American Light Lager,9,20.82,1.064,1.016,6.25,37.77,41.76,32.18,60,1.041,80.0,1.4,Specific Gravity,All Grain,1.4,5
+Lemon Pils (S. Beatty),Czech Pale Lager,49,22.71,1.042,1.013,3.82,34.18,3.17,30.28,60,1.031,68.0,1.5,Specific Gravity,All Grain,1.5,2
+Imperial Chocolate Porter,American Porter,11,20.82,1.089,1.021,8.94,62.78,42.07,28.39,60,1.065,60.0,1.25,Specific Gravity,All Grain,1.25,6
+Nonesa,American Wheat Beer,14,25.0,1.053,1.012,5.38,31.66,4.06,30.0,60,1.044,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Belgian Pale Ale,Belgian Pale Ale,24,20.0,1.051,1.0090000000000001,5.59,19.23,9.32,10.0,60,1.044,75.0,2.259328767123288,Specific Gravity,BIAB,2.259328767123288,2
+Awesome Recipe,American Light Lager,9,20.82,1.053,1.013,5.17,47.44,4.79,28.39,60,1.0390000000000001,75.0,2.1850179985601157,Specific Gravity,BIAB,2.1850179985601157,2
+We Made a Beer Fruit Sour,Fruit Lambic,77,45.0,1.041,1.006,4.63,4.04,3.08,45.0,60,1.041,75.0,3.0,Specific Gravity,All Grain,3.0,2
+OC Plunder IPA,American IPA,7,43.53,1.0590000000000002,1.012,6.13,46.51,6.74,47.32,60,1.054,75.0,1.25,Specific Gravity,All Grain,1.25,2
+Impy Red,American Amber Ale,4,22.71,1.085,1.024,8.06,62.78,22.41,28.39,60,1.068,70.0,2.1336110307414087,Specific Gravity,All Grain,2.1336110307414087,3
+Hoppy wheat,American Light Lager,9,22.71,1.044,1.011,4.44,15.98,3.82,30.28,60,1.033,68.0,1.3,Specific Gravity,All Grain,1.3,2
+Cuckoo's Summer Ale 2014,American Wheat or Rye Beer,15,19.87,1.0590000000000002,1.015,5.7,33.99,5.09,13.25,60,1.088,35.0,1.70597609561753,Specific Gravity,extract,1.70597609561753,2
+Wheatwine,Wheatwine,172,30.28,1.104,1.023,10.7,50.98,10.73,37.85,60,1.084,70.0,1.0,Specific Gravity,All Grain,1.0,3
+(almost) Imperial Chocolate Stout,American Stout,12,22.71,1.068,1.012,7.35,57.67,43.15,28.39,60,1.054,66.0,1.5,Specific Gravity,All Grain,1.5,5
+Grainfather Part Deuix,Belgian Golden Strong Ale,23,28.39,1.093,1.022,9.37,29.81,7.21,30.28,60,1.088,70.0,1.5,Specific Gravity,All Grain,1.5,3
+Caser ipa,American IPA,7,20.82,1.064,1.011,6.87,81.65,9.39,28.39,60,1.047,75.0,2.0,Specific Gravity,All Grain,2.0,2
+Maximus clone,American IPA,7,22.71,1.068,1.021,6.13,43.65,8.16,27.52,90,1.056,75.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+The 5th awakening,Oatmeal Stout,114,43.53,1.065,1.016,6.42,31.37,37.84,53.0,60,1.054,75.0,2.0342862385321103,Specific Gravity,All Grain,2.0342862385321103,5
+Summer Saison EKG 3g SMaSH,Saison,134,11.36,1.053,1.011,5.59,29.44,5.94,17.03,60,1.035,70.0,2.037900446144041,Specific Gravity,BIAB,2.037900446144041,2
+Awesome Recipe,American Pale Ale,10,25.0,1.074,1.014,7.87,30.02,7.41,15.0,60,1.123,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+Specialty - On the Corner,Berliner Weisse,27,18.93,1.05,1.015,4.47,0.0,3.65,20.82,60,1.045,65.0,1.25,Specific Gravity,All Grain,1.25,2
+Dark - Breiss # A01,Munich Dunkel,108,12.3,1.0490000000000002,1.0090000000000001,5.22,24.56,18.64,11.36,60,1.053,35.0,2.162662721893491,Specific Gravity,extract,2.162662721893491,2
+1080 Runaway Boiler,California Common Beer,39,20.82,1.054,1.013,5.46,32.5,12.44,31.42,60,1.036,65.0,2.0,Specific Gravity,All Grain,2.0,2
+American Stout BCS Brewed,American Stout,12,37.85,1.072,1.014,7.58,71.8,50.0,43.53,60,1.062,75.0,2.0,Specific Gravity,All Grain,2.0,5
+Trij? velni? IPA,American IPA,7,19.0,1.073,1.0170000000000001,7.36,90.01,8.76,22.0,60,1.063,70.0,2.5,Specific Gravity,All Grain,2.5,2
+Oat Pale Ale,American Pale Ale,10,22.71,1.052,1.012,5.31,49.12,7.03,26.5,60,1.045,70.0,1.5,Specific Gravity,All Grain,1.5,2
+IBC Belgian Pilot,Belgian Blond Ale,20,18.93,1.061,1.013,6.24,30.48,5.72,26.5,60,1.043,75.0,1.2,Specific Gravity,All Grain,1.2,2
+Mother's Milk IPA,American IPA,7,21.58,1.061,1.012,6.49,42.88,4.59,18.93,30,1.07,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Candied Ginger-Orange Ale,American Pale Ale,10,19.87,1.048,1.0090000000000001,5.1,59.41,4.59,27.44,60,1.035,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+I-Pier-A (2),American IPA,7,20.82,1.062,1.011,6.6,85.96,6.29,25.55,60,1.05,80.0,1.5,Specific Gravity,All Grain,1.5,2
+First past the post,Blonde Ale,30,10.0,1.046,1.008,4.95,51.4,5.89,11.0,60,1.042,35.0,2.2130735220729356,Specific Gravity,extract,2.2130735220729356,2
+Smoking Ship IPA,American IPA,7,20.82,1.062,1.015,6.19,0.0,9.02,28.39,75,1.045,50.0,1.5,Specific Gravity,All Grain,1.5,2
+"Ciara""s pumpkin Ale 2.0",Spice  Herb  or Vegetable Beer,155,18.93,1.102,1.022,10.43,144.36,11.08,22.71,60,1.085,35.0,1.8465355805243444,Specific Gravity,Partial Mash,1.8465355805243444,3
+All Hopped Up and Nowhere to Go,American IPA,7,18.93,1.067,1.02,6.15,37.94,7.26,28.39,60,1.044,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Bilbo's Brown,Northern English Brown,113,20.82,1.05,1.015,4.61,32.74,19.88,28.39,60,1.037,70.0,1.5,Specific Gravity,All Grain,1.5,2
+64,Helles Bock,84,14.0,1.048,1.0090000000000001,5.13,37.7,7.94,20.0,60,1.034,65.0,3.0,Specific Gravity,All Grain,3.0,2
+Vienna Styrian SMaSH,British Golden Ale,35,23.0,1.045,1.008,4.78,27.81,4.65,27.5,60,1.037,76.0,3.0,Specific Gravity,All Grain,3.0,2
+Galaxy Tropical IPA,English IPA,65,20.82,1.064,1.018,6.08,80.57,11.35,28.39,60,1.047,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Winter Spiced Ale,Holiday/Winter Special Spiced Beer,85,19.87,1.068,1.02,6.34,32.68,23.53,13.25,60,1.102,35.0,2.509152317880795,Specific Gravity,extract,2.509152317880795,2
+First try...,California Common Beer,39,19.87,1.057,1.016,5.4,72.27,6.06,11.36,60,1.079579420944893,75.0,2.0911964601769917,Specific Gravity,extract,2.0911964601769917,2
+Straight Extract and Dry Yeast #3,American IPA,7,18.93,1.062,1.008,7.03,104.0,4.86,11.36,60,1.103,25.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Basshook IPA,American IPA,7,18.93,1.061,1.012,6.44,47.34,7.63,24.61,60,1.047,80.0,1.25,Specific Gravity,All Grain,1.25,2
+Broob's Saison Hoppy,Saison,134,21.0,1.055,1.011,5.86,34.56,4.02,25.5,60,1.045,77.0,2.8,Specific Gravity,All Grain,2.8,2
+D's Hoppin IPA,American IPA,7,20.82,1.057,1.011,6.01,34.5,7.51,9.46,60,1.124,100.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Viennafest,Specialty Beer,145,37.85,1.05,1.011,5.16,25.83,10.78,18.93,60,1.101,35.0,1.7723979591836736,Specific Gravity,extract,1.7723979591836736,2
+Tank 7 Farmhouse Ale Clone,Clone Beer,43,18.93,1.0759999999999998,1.016,7.86,43.68,4.44,20.82,60,1.069,65.0,1.5,Specific Gravity,All Grain,1.5,2
+Citra Zythos,American Light Lager,9,21.0,1.1,1.025,9.86,56.41,13.14,11.0,60,1.1909999999999998,35.0,2.1850179985601157,Specific Gravity,extract,2.1850179985601157,3
+Blackberry Wheat,Weizen/Weissbier,170,20.82,1.054,1.014,5.22,16.79,2.8,28.39,60,1.0390000000000001,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Imperial India Pale Ale,Imperial IPA,86,18.93,1.085,1.016,9.04,0.0,15.99,18.93,60,1.0817248832989823,75.0,1.808331280788176,Specific Gravity,extract,1.808331280788176,3
+Mista Citra,American IPA,7,20.82,1.0590000000000002,1.015,5.79,72.45,8.96,29.34,60,1.042,75.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Kern Citra,Imperial IPA,86,22.71,1.072,1.018,7.12,94.25,6.25,34.07,70,1.048,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Alebaster Brew,American Amber Ale,4,18.93,1.0659999999999998,1.018,6.23,49.93,11.95,11.36,60,1.11,35.0,2.1336110307414087,Specific Gravity,extract,2.1336110307414087,2
+Grasshopper IPA,American IPA,7,18.93,1.064,1.015,6.42,58.64,8.26,15.14,60,1.08,50.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+West Coast IPA,American Pale Ale,10,23.0,1.068,1.0170000000000001,6.67,85.35,6.47,32.5,75,1.048,70.0,2.5,Specific Gravity,All Grain,2.5,2
+2015-04-19 psenice,Weizen/Weissbier,170,25.0,10.8833,2.79549,4.3,12.05,3.36,28.0,90,9.8,70.0,4.0,Plato,All Grain,4.0,2
+Pseudo-lambic,Straight (Unblended) Lambic,158,11.5,1.052,1.004,6.39,4.69,4.26,15.0,90,1.04,80.0,3.0,Specific Gravity,All Grain,3.0,2
+Jerky Teet BOP,Spice  Herb  or Vegetable Beer,155,41.64,1.084,1.022,8.66,0.0,32.35,41.64,55,1.084,66.5,1.1,Specific Gravity,All Grain,1.1,6
+Baja California Uncommon IPL,Premium American Lager,124,20.82,1.073,1.018,7.32,107.96,8.53,28.39,60,1.054,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Brett's Winter Warmer,Winter Seasonal Beer,174,50.0,1.061,1.014,6.21,19.56,13.26,55.0,70,1.056,76.0,3.0,Specific Gravity,All Grain,3.0,2
+Bube's Export Stout,Irish Extra Stout,91,416.4,1.061,1.0170000000000001,5.68,36.48,50.0,416.4,60,1.061,70.0,1.5,Specific Gravity,All Grain,1.5,5
+Ballast Point - Sculpin Clone,American IPA,7,20.0,1.07,1.016,7.09,95.49,7.01,28.4,60,1.0490000000000002,65.0,3.0,Specific Gravity,All Grain,3.0,2
+My Ruca Red IPA,Specialty IPA: Red IPA,150,1400.6,14.6111,2.4041799999999998,6.57,55.93,11.66,1552.02,60,13.2,96.0,1.5,Plato,All Grain,1.5,2
+Awesome Recipe,Weissbier,169,21.0,1.334,1.083,32.86,0.0,13.88,11.0,60,1.5,35.0,2.677646655231561,Specific Gravity,extract,2.677646655231561,3
+Mrkonji? Pale Ale,American Pale Ale,10,30.0,1.052,1.0090000000000001,5.67,48.95,6.89,36.8,60,1.042,70.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+Stop Your Weizen,Weizen/Weissbier,170,20.82,1.056,1.014,5.56,22.49,3.87,28.39,60,1.041,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Magpies' Hasty Return,British Brown Ale,34,19.87,1.043,1.0190000000000001,3.17,42.99,18.81,23.66,60,1.036,74.0,2.0127385892116183,Specific Gravity,BIAB,2.0127385892116183,2
+Djuzas APA,American Pale Ale,10,23.0,1.0590000000000002,1.0190000000000001,5.31,14.53,10.09,7.0,60,1.194,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+New England IPA,American IPA,7,19.87,1.071,1.018,6.93,68.91,6.82,28.39,60,1.05,72.0,1.5,Specific Gravity,All Grain,1.5,2
+Barleywine,American Barleywine,5,6.81,1.104,1.025,10.4,42.07,20.28,15.14,60,1.047,71.0,1.6704563106796118,Specific Gravity,BIAB,1.6704563106796118,3
+Scottish 1 2015,Scottish Export,136,18.93,1.07,1.021,6.44,25.11,20.1,28.39,120,1.047,82.0,1.25,Specific Gravity,All Grain,1.25,2
+NEIPA #2,American IPA,7,8.0,1.065,1.016,6.45,90.16,7.64,12.0,60,1.043,55.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Abbey Beer,Trappist Single,165,23.0,1.057,1.013,5.82,20.58,6.59,27.0,75,1.0490000000000002,70.0,3.0,Specific Gravity,All Grain,3.0,2
+LME SAAZ,Specialty IPA: Brown IPA,149,20.0,1.0590000000000002,1.01,6.44,72.27,19.55,23.0,60,1.051,35.0,2.2455769230769227,Specific Gravity,extract,2.2455769230769227,2
+Mosaic IPA,American IPA,7,18.93,1.069,1.0170000000000001,6.83,58.67,8.37,26.5,60,1.0490000000000002,65.0,1.25,Specific Gravity,All Grain,1.25,2
+El Citrador IPA,American IPA,7,45.42,1.078,1.01,8.96,110.79,5.68,53.94,60,1.0659999999999998,72.0,1.5,Specific Gravity,All Grain,1.5,3
+1 Gallon Glacier Pale,American Pale Ale,10,3.79,1.064,1.011,6.97,32.16,9.6,6.62,60,1.037,70.0,1.2,Specific Gravity,All Grain,1.2,2
+Brenda Weizen,Weizen/Weissbier,170,200.0,1.0490000000000002,1.0090000000000001,5.13,15.0,4.47,200.0,60,1.0490000000000002,80.0,3.0,Specific Gravity,All Grain,3.0,2
+MCC IPA,American IPA,7,20.82,1.057,1.014,5.56,55.57,4.19,30.28,60,1.0390000000000001,78.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+SKÖL tävling,American Light Lager,9,18.0,1.064,1.016,6.31,0.0,6.97,22.0,60,1.052,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Messin Around,Old Ale,116,18.93,1.075,1.014,7.99,72.35,13.18,11.36,60,1.125,35.0,2.1683040935672513,Specific Gravity,extract,2.1683040935672513,2
+Black and Gold,Dry Stout,58,20.82,1.063,1.0170000000000001,5.99,41.97,32.36,28.39,75,1.046,70.0,1.5,Specific Gravity,All Grain,1.5,5
+Ptich black chocolate v1.2,American Stout,12,24.0,1.056,1.018,5.24,49.17,50.0,30.0,60,1.045,70.0,3.0,Specific Gravity,All Grain,3.0,5
+#033 PINKMAGGIT Brewing CCC IPA,Specialty IPA: Black IPA,148,8.0,1.065,1.011,7.09,113.33,6.75,10.5,60,1.0490000000000002,65.0,4.7,Specific Gravity,All Grain,4.7,2
+Hefe,Weizen/Weissbier,170,19.87,1.052,1.014,5.05,11.14,4.7,11.36,60,1.0753756749488255,60.0,2.247236286919832,Specific Gravity,extract,2.247236286919832,2
+Ingefær Sommerpils (glutenfri),German Pilsner (Pils),81,50.0,1.055,1.008,6.15,31.62,5.66,60.0,60,1.046,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Booming Owens,American IPA,7,20.82,1.062,1.015,6.2,84.69,4.27,28.39,60,1.045,80.0,1.5,Specific Gravity,All Grain,1.5,2
+Grape Wheatwine,Wheatwine,172,37.9,1.0979999999999999,1.015,10.9,68.71,4.89,41.6,90,1.089,75.0,4.2,Specific Gravity,All Grain,4.2,3
+Nate's Wicked Journey,American Brown Ale,6,20.82,1.061,1.018,5.58,31.48,18.48,24.61,60,1.051,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Marzen,Munich Helles,109,22.0,1.044,1.011,4.27,1.07,4.76,8.0,10,1.12,35.0,2.0239450000000003,Specific Gravity,Partial Mash,2.0239450000000003,2
+#142 - Struck  As With a Hard Blow,Alternative Grain Beer,2,24.61,1.048,1.0090000000000001,5.22,48.74,7.16,27.44,30,1.043,70.0,1.92,Specific Gravity,All Grain,1.92,2
+Pancake Ale,American IPA,7,25.0,1.062,1.015,6.11,55.41,6.95,31.0,60,1.05,65.0,3.0,Specific Gravity,All Grain,3.0,2
+Munich Helles,Munich Helles,109,19.87,1.048,1.011,4.88,18.47,4.84,24.61,90,1.0390000000000001,68.0,1.25,Specific Gravity,All Grain,1.25,2
+Long trail harvest,American Brown Ale,6,20.82,1.053,1.015,5.02,13.26,14.81,11.36,60,1.097,75.0,1.9293349131121658,Specific Gravity,Partial Mash,1.9293349131121658,2
+Fresh smoked red 2.0,Irish Red Ale,92,20.82,1.058,1.014,5.77,36.99,21.61,28.39,60,1.043,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Single hop APA,American Pale Ale,10,9.46,1.05,1.012,5.06,30.37,4.38,11.36,30,1.042,25.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+Munich Helles,Munich Helles,109,20.82,1.05,1.008,5.48,20.14,4.23,24.61,90,1.042,72.0,2.0239450000000003,Specific Gravity,BIAB,2.0239450000000003,2
+Allosaurus Amber,American Amber Ale,4,20.82,1.052,1.014,5.07,35.1,11.14,28.39,90,1.038,70.0,1.2,Specific Gravity,All Grain,1.2,2
+Doppelbock,Doppelbock,54,20.82,1.079,1.0190000000000001,7.84,27.83,16.11,28.39,60,1.058,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Fruit Smoothie IPA,Fruit Beer,75,151.42,1.0859999999999999,1.0270000000000001,7.78,68.42,5.81,170.34,60,1.0759999999999998,72.0,1.15,Specific Gravity,All Grain,1.15,2
+Ale From IPAnema,Imperial IPA,86,18.93,1.07,1.012,7.56,100.68,7.26,24.61,90,1.054,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Sierra Nevada Pale Ale,American Pale Ale,10,26.9,1.054,1.01,5.8,37.48,8.37,32.2,70,1.045,79.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+Winters Lagging,American Light Lager,9,20.82,1.063,1.015,6.2,24.52,10.32,28.39,60,1.046,72.0,2.1850179985601157,Specific Gravity,BIAB,2.1850179985601157,2
+Idler IPA,American IPA,7,22.71,1.071,1.0170000000000001,7.16,71.79,9.56,32.18,60,1.05,70.0,1.3,Specific Gravity,All Grain,1.3,2
+Viena lager,Vienna Lager,167,19.0,1.053,1.008,5.92,23.51,17.44,27.0,70,1.037,65.0,2.373735042735042,Specific Gravity,BIAB,2.373735042735042,2
+The pale ale,American Pale Ale,10,25.0,1.044,1.008,4.82,34.69,9.45,28.0,90,1.04,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Brun kjeks,Southern English Brown,143,23.0,1.045,1.015,3.99,20.98,23.11,20.0,90,1.052,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Citrus Pale Ale,American Pale Ale,10,18.93,1.055,1.014,5.54,33.07,8.61,15.14,60,1.069,50.0,2.2804632561436686,Specific Gravity,Partial Mash,2.2804632561436686,2
+Belgisk Blonde,Belgian Pale Ale,24,21.0,1.058,1.013,5.94,21.82,8.06,31.0,90,1.0390000000000001,77.0,3.2,Specific Gravity,All Grain,3.2,2
+AlppIPA,American Pale Ale,10,18.0,1.07,1.0170000000000001,6.9,189.49,5.71,25.0,90,1.05,63.0,3.0,Specific Gravity,All Grain,3.0,2
+NEIPA #3,American IPA,7,21.0,1.06,1.014,6.04,105.32,4.7,33.0,60,1.038,65.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Brooklyn Brewshop Everyday IPA,American IPA,7,3.5,1.04,1.01,3.96,116.11,7.19,11.0,60,1.013,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Galaxy Pale,American Pale Ale,10,25.0,1.054,1.0090000000000001,5.86,32.94,6.15,35.0,60,1.038,75.0,3.0,Specific Gravity,All Grain,3.0,2
+#0017 AHS Lemon Wheat,Weissbier,169,20.82,1.045,1.011,4.38,23.08,3.74,24.61,60,1.038,35.0,2.677646655231561,Specific Gravity,extract,2.677646655231561,2
+Yorkshire Bitter,Special/Best/Premium Bitter,144,21.0,1.043,1.011,4.25,34.98,13.33,26.5,60,1.034,80.0,2.5249065957446795,Specific Gravity,All Grain,2.5249065957446795,2
+Squeaking Vala Coconut Pineapple Saison,Saison,134,20.82,1.051,1.008,5.84,35.3,5.77,26.5,90,1.04,45.0,1.25,Specific Gravity,All Grain,1.25,2
+Oud Bruin,Oud Bruin,122,11.4,1.061,1.018,5.6,20.83,20.9,15.2,60,1.046,70.0,2.5,Specific Gravity,All Grain,2.5,2
+British Kölsch,Kölsch,94,5.0,1.0490000000000002,1.012,4.83,26.71,5.53,5.0,60,1.0490000000000002,76.0,4.0,Specific Gravity,All Grain,4.0,2
+German Weissbier,Weissbier,169,20.82,1.051,1.013,5.01,13.09,4.39,32.18,90,1.033,65.0,1.5,Specific Gravity,All Grain,1.5,2
+3 rye session pale,American Pale Ale,10,22.71,1.043,1.011,4.24,26.29,9.6,26.5,60,1.037,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Double Batch Pilsner II,International Pale Lager,90,37.85,1.046,1.011,4.57,24.66,4.47,30.28,60,1.057,70.0,2.6476447474747475,Specific Gravity,Partial Mash,2.6476447474747475,2
+Speidel # Kölsch,Kölsch,94,25.0,1.05,1.013,4.97,25.43,3.29,28.5,70,1.0462410946841019,80.0,2.0564335754189935,Specific Gravity,All Grain,2.0564335754189935,2
+Warcoe Camarillo Session IPA,Specialty Beer,145,18.93,1.05,1.015,4.57,39.68,16.81,28.39,60,1.033,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Bitter,Special/Best/Premium Bitter,144,10.0,1.044,1.011,4.37,30.53,8.39,12.0,60,1.037,73.0,3.0,Specific Gravity,All Grain,3.0,2
+Extra stout,Foreign Extra Stout,72,23.0,1.0659999999999998,1.018,6.28,40.16,50.0,28.5,90,1.053,70.0,3.0,Specific Gravity,All Grain,3.0,5
+Dubbel,Belgian Dubbel,22,22.0,16.3455,3.86426,6.79,20.35,10.92,30.0,60,12.2,78.0,3.0,Plato,All Grain,3.0,2
+Kalvin IPA,American IPA,7,20.82,1.061,1.0170000000000001,5.72,87.1,7.13,11.36,60,1.111,25.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+23 Hour Lockdown Pale Ale,American Pale Ale,10,23.0,1.047,1.0090000000000001,5.05,43.9,9.0,11.0,60,1.099,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+Tempe Closet Kriek,Lambic,98,20.82,12.5925,3.24951,5.01,10.0,3.37,26.5,90,10.0,75.0,1.25,Plato,All Grain,1.25,2
+Apa2,American Pale Ale,10,23.0,1.054,1.012,5.53,21.79,5.2,10.0,60,1.124,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+Infinite Wishes,English Barleywine,63,18.93,1.128,1.037,12.01,55.46,35.17,24.61,120,1.099,70.0,1.0,Specific Gravity,All Grain,1.0,6
+Strandefjorden IPA,American IPA,7,25.0,1.064,1.011,6.96,68.74,11.25,28.5,60,1.056,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Amarillo Acid Test,American Pale Ale,10,3.79,1.043,1.011,4.22,48.01,2.96,4.73,60,1.034,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+Kriek Geuze,Fruit Lambic,77,24.61,1.048,1.0070000000000001,5.38,6.99,3.89,30.28,90,1.0390000000000001,61.0,0.25,Specific Gravity,All Grain,0.25,2
+Saison Azimut-fr,Saison,134,150.0,1.053,1.0090000000000001,5.8,31.25,7.64,160.0,60,1.05,77.0,3.0,Specific Gravity,All Grain,3.0,2
+Hop Showcase - Cascade,American IPA,7,18.93,1.06,1.015,5.91,60.65,4.53,20.82,60,1.055,58.0,1.5,Specific Gravity,All Grain,1.5,2
+IRA,Irish Red Ale,92,24.0,1.06,1.011,6.42,19.71,15.05,28.5,60,1.05,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Rainy Day Weisen,Weissbier,169,41.64,1.048,1.011,4.77,9.44,3.8,51.1,60,1.0390000000000001,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Awesome Recipe,American Light Lager,9,1250.0,15.4578,4.02004,6.21,0.0,28.13,1300.0,60,14.9,80.0,3.0,Plato,All Grain,3.0,5
+Carrot IPA,American IPA,7,18.93,1.061,1.0170000000000001,5.8,94.62,8.27,15.14,60,1.0759999999999998,60.0,2.0243738248981953,Specific Gravity,Partial Mash,2.0243738248981953,2
+Pilsner - German,International Pale Lager,90,22.71,1.048,1.01,4.99,33.38,2.88,29.34,90,1.037,78.0,1.5,Specific Gravity,All Grain,1.5,2
+Sageson,Saison,134,20.82,1.055,1.013,5.52,36.51,9.66,25.55,90,1.044,75.0,1.4,Specific Gravity,All Grain,1.4,2
+Ofest Dunkel,Munich Dunkel,108,18.93,1.045,1.011,4.46,26.71,16.52,18.93,60,1.045,60.0,1.25,Specific Gravity,All Grain,1.25,2
+IIPA,Imperial IPA,86,14.0,1.083,1.0170000000000001,8.78,73.32,9.67,17.0,60,1.069,70.0,2.6,Specific Gravity,All Grain,2.6,3
+Merr-Ale Amber,American Amber Ale,4,37.85,1.053,1.012,5.26,32.81,11.14,41.64,60,1.048,70.0,1.4,Specific Gravity,All Grain,1.4,2
+TorreAlta Stout # 1,Oatmeal Stout,114,17.0,1.052,1.012,5.18,36.17,35.9,27.0,60,1.033,70.0,3.0,Specific Gravity,All Grain,3.0,5
+Russian Imperial Stout,Russian Imperial Stout,132,18.93,1.09,1.023,8.77,75.4,50.0,27.67,60,1.055,65.0,1.25,Specific Gravity,All Grain,1.25,6
+Biermuncher's Centennial Blonde - GF,Blonde Ale,30,20.82,1.0490000000000002,1.011,5.05,21.43,5.07,23.09,60,1.044,78.0,1.5,Specific Gravity,All Grain,1.5,2
+Marshall Nose IPA,American IPA,7,21.0,16.2125,3.59565,6.86,52.19,5.29,30.0,60,10.5,60.0,2.5,Plato,All Grain,2.5,2
+Atom (1/18/17),Gueuze,83,37.85,1.05,1.014,4.79,11.54,3.39,43.53,60,1.044,79.0,1.5,Specific Gravity,All Grain,1.5,2
+Awesome Recipe,Russian Imperial Stout,132,20.0,1.0979999999999999,1.0170000000000001,10.64,63.23,37.68,23.0,60,1.0859999999999999,75.0,3.0,Specific Gravity,All Grain,3.0,6
+FESes Are Cool,Foreign Extra Stout,72,20.82,1.073,1.0170000000000001,7.29,78.43,36.93,27.25,60,1.056,78.0,1.53,Specific Gravity,All Grain,1.53,5
+Monroe Blonde,Blonde Ale,30,41.64,1.048,1.012,4.68,5.51,4.64,51.1,60,1.0390000000000001,75.0,1.4,Specific Gravity,All Grain,1.4,2
+Wes's Fresh Squeezed - Extract,American IPA,7,19.87,1.0659999999999998,1.013,7.04,42.63,7.05,22.71,60,1.058,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Piney Promise,American IPA,7,20.82,1.071,1.0190000000000001,6.73,91.97,6.31,28.39,60,1.052,70.0,1.5,Specific Gravity,All Grain,1.5,2
+My NEIPA,Double IPA,56,15.0,1.084,1.0190000000000001,8.48,51.85,7.41,18.0,60,1.07,75.0,2.8,Specific Gravity,All Grain,2.8,3
+SMASH American Ale,American Pale Ale,10,18.93,1.051,1.013,5.04,42.41,2.8,11.36,60,1.07,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+PIROUETTE,Belgian Blond Ale,20,9.0,1.061,1.012,6.51,29.13,5.59,15.0,60,1.037,55.0,3.0,Specific Gravity,All Grain,3.0,2
+Vanilla Caramel Porter,Robust Porter,129,22.71,1.0590000000000002,1.015,5.75,24.97,31.91,27.44,75,1.0490000000000002,73.0,1.25,Specific Gravity,All Grain,1.25,5
+Sauvin Saison,Saison,134,20.82,1.045,1.0090000000000001,4.73,27.92,4.46,26.5,60,1.036,70.0,1.5,Specific Gravity,All Grain,1.5,2
+C-Hop Top IPA,American IPA,7,79.99,1.056,1.012,5.75,48.76,5.86,87.1,60,1.051,80.0,1.5,Specific Gravity,All Grain,1.5,2
+Rödskinnet från Brugge,Specialty IPA: Belgian IPA,147,20.0,1.078,1.018,7.79,59.16,14.92,24.0,60,1.065,70.0,2.5,Specific Gravity,All Grain,2.5,2
+Holiday Ale,American Amber Ale,4,17.03,1.074,1.0170000000000001,7.47,39.68,26.68,9.46,55,1.133,35.0,2.1336110307414087,Specific Gravity,extract,2.1336110307414087,5
+Cascade Single Hop Ale 3rd edition,American IPA,7,21.0,1.057,1.016,5.38,39.31,11.64,25.0,70,1.048,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Hellagood Stout,Russian Imperial Stout,132,20.82,1.114,1.0270000000000001,11.44,92.03,50.0,25.36,60,1.094,70.0,1.25,Specific Gravity,All Grain,1.25,6
+Chocolate Raspberry Porter,American Porter,11,416.4,16.0894,3.53689,6.82,37.76,34.26,461.82,60,14.0,86.0,1.25,Plato,All Grain,1.25,5
+Breakfast Stout,Sweet Stout,162,5.68,1.078,1.018,7.88,43.08,47.13,7.57,60,1.0590000000000002,70.0,2.0088648111332006,Specific Gravity,BIAB,2.0088648111332006,5
+Dagmar Mocha Porter,Robust Porter,129,20.82,1.054,1.014,5.14,61.04,35.36,9.46,60,1.1179999999999999,35.0,1.9681428571428576,Specific Gravity,Partial Mash,1.9681428571428576,5
+Soltice sasion,California Common Beer,39,18.93,1.063,1.018,5.86,51.27,7.09,26.5,60,1.045,66.0,1.5,Specific Gravity,All Grain,1.5,2
+Highlands American Pale Ale,American Pale Ale,10,20.0,1.047,1.008,5.01,37.11,5.81,28.5,60,1.033,60.0,15.0,Specific Gravity,All Grain,15.0,2
+New pale,American Pale Ale,10,20.0,1.0490000000000002,1.01,5.02,38.68,6.01,28.0,60,1.035,80.0,3.0,Specific Gravity,All Grain,3.0,2
+Porter,Robust Porter,129,19.0,1.065,1.011,7.13,27.62,21.9,24.0,60,1.052,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Spicy Ginger Honey Rye Wheat,American Wheat Beer,14,20.82,1.063,1.016,6.16,21.11,6.89,26.5,60,1.0490000000000002,70.0,1.9064315245478038,Specific Gravity,BIAB,1.9064315245478038,2
+Polish Pale Ale,English IPA,65,20.0,1.058,1.015,5.75,45.78,13.56,12.0,60,1.097,35.0,2.4856328293736496,Specific Gravity,extract,2.4856328293736496,2
+Awesome Recipe,California Common Beer,39,2.0,1.068,1.0170000000000001,6.73,23.76,21.85,3.0,60,1.046,35.0,3.0,Specific Gravity,All Grain,3.0,2
+New ryepa,Specialty IPA: Rye IPA,151,18.93,1.061,1.014,6.14,78.02,6.52,26.5,60,1.044,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Chocolate Cherry Bock,Traditional Bock,163,17.03,1.068,1.018,6.52,41.68,15.97,24.61,90,1.047,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Pale Ass,American Pale Ale,10,22.5,1.061,1.015,6.09,49.09,7.29,28.5,60,1.048,75.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+Jeremiah Red Clone,Irish Red Ale,92,18.93,1.068,1.014,7.07,0.0,16.04,24.61,60,1.0537163747410985,75.0,2.2631598877980363,Specific Gravity,All Grain,2.2631598877980363,2
+Has Been 2.0,Specialty IPA: White IPA,152,500.1,14.1016,2.78439,6.09,38.41,7.45,590.1,70,12.0,75.0,2.9,Plato,All Grain,2.9,2
+Sagene Soldiers Juleøl,Winter Seasonal Beer,174,27.5,1.071,1.016,7.2,18.44,15.4,35.0,60,1.056,70.0,1.970217391304347,Specific Gravity,BIAB,1.970217391304347,2
+Tailgater's Fizzy Yellow Beer,Blonde Ale,30,18.93,1.045,1.011,4.43,26.99,5.03,24.61,60,1.035,70.0,1.5,Specific Gravity,All Grain,1.5,2
+30 Minute Cascade,American IPA,7,20.0,1.055,1.015,5.17,40.79,10.59,12.0,30,1.091,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Well Deck IPA,American IPA,7,20.82,1.057,1.014,5.62,59.39,10.68,11.36,60,1.105,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+First SMaSH,American Pale Ale,10,20.82,1.055,1.014,5.37,35.77,5.57,24.61,60,1.048214937299522,80.0,2.2804632561436686,Specific Gravity,All Grain,2.2804632561436686,2
+Mean Black Spider,Foreign Extra Stout,72,23.0,1.06,1.015,5.85,3.84,46.53,5.0,20,1.101,85.0,2.297752808988765,Specific Gravity,Partial Mash,2.297752808988765,5
+Dos equis/corona/tsingtao fusion,International Pale Lager,90,20.82,1.05,1.014,4.71,22.08,4.16,28.39,60,1.037,70.0,1.33,Specific Gravity,All Grain,1.33,2
+Rye Saison,Saison,134,41.64,1.051,1.0090000000000001,5.55,21.08,3.5,51.1,60,1.042,75.0,1.8,Specific Gravity,All Grain,1.8,2
+Bone Dry Irish Stout,Irish Stout,93,3.79,1.06,1.015,5.91,98.9,50.0,3.79,60,1.06,35.0,2.098873417721519,Specific Gravity,extract,2.098873417721519,5
+Awesome Recipe,Munich Helles,109,50.0,1.046,1.008,4.98,20.27,4.12,75.0,75,1.03,75.0,3.0,Specific Gravity,All Grain,3.0,2
+West Coast Blaster,American Amber Ale,4,41.64,1.0659999999999998,1.0170000000000001,6.53,80.22,12.02,53.0,60,1.052,70.0,2.1336110307414087,Specific Gravity,Partial Mash,2.1336110307414087,2
+Hoppy_Lager_II,American Wheat Beer,14,15.14,1.048,1.013,4.65,42.96,3.15,19.68,60,1.037,75.0,2.0,Specific Gravity,All Grain,2.0,2
+Mango/Hananero Pale Ale V2.,American Pale Ale,10,22.71,1.068,1.016,6.84,34.08,6.32,28.39,90,1.055,86.0,1.45,Specific Gravity,All Grain,1.45,2
+Summer IPA,American IPA,7,15.14,1.063,1.012,6.71,60.33,5.92,18.93,45,1.043,84.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+DOS EQUIS AMBER CLONE,American Brown Ale,6,39.75,15.0245,2.7788,6.61,32.15,13.47,49.21,60,12.3,75.0,1.0,Plato,All Grain,1.0,2
+Bastard brew,Old Ale,116,37.85,1.078,1.0270000000000001,6.69,103.71,15.21,45.42,60,1.065,80.0,1.5,Specific Gravity,All Grain,1.5,2
+El Trio,Belgian Tripel,26,24.0,1.087,1.011,9.96,40.22,4.11,27.7,60,1.075,75.0,2.5,Specific Gravity,All Grain,2.5,3
+Starless And Bible Black,Russian Imperial Stout,132,29.0,1.084,1.016,9.65,44.71,42.15,32.0,60,1.077,51.0,3.1,Specific Gravity,All Grain,3.1,6
+Svart Kanin IPA,American IPA,7,35.0,1.072,1.0190000000000001,6.98,77.5,26.66,44.0,90,1.057,68.0,3.0,Specific Gravity,All Grain,3.0,5
+Murky Water Black Sea,American Stout,12,18.93,1.062,1.016,6.03,66.37,38.97,11.36,60,1.103,35.0,1.8763916786226682,Specific Gravity,extract,1.8763916786226682,5
+Floydy Robust Porter,Robust Porter,129,21.0,1.057,1.014,5.71,35.65,43.21,28.5,60,1.042,75.0,1.9681428571428576,Specific Gravity,BIAB,1.9681428571428576,5
+ATL Coffee Stout,American Stout,12,18.93,1.069,1.018,6.82,94.68,49.76,11.36,60,1.074,35.0,1.8763916786226682,Specific Gravity,extract,1.8763916786226682,5
+Raspberry Wheat,Fruit Beer,75,7.57,1.042,1.005,4.85,21.27,4.44,8.82,70,1.036,60.0,1.5,Specific Gravity,All Grain,1.5,2
+Black Label,Schwarzbier,135,32.0,1.051,1.01,5.36,31.32,28.94,32.0,90,1.051,75.0,2.8,Specific Gravity,All Grain,2.8,5
+Humble Monk,Trappist Single,165,41.64,1.043,1.0070000000000001,4.67,26.11,6.5,49.21,60,1.036,80.0,1.9885769230769232,Specific Gravity,BIAB,1.9885769230769232,2
+You are me,American Pale Ale,10,30.28,1.043,1.012,4.05,35.64,5.96,35.96,90,1.036,61.0,1.4,Specific Gravity,All Grain,1.4,2
+All American,Experimental Beer,67,15.14,1.07,1.0170000000000001,7.05,81.86,22.8,18.93,60,1.056,50.0,2.3384,Specific Gravity,BIAB,2.3384,2
+#1 NEIPA For The Soul 2.0,American IPA,7,13.0,1.0659999999999998,1.016,6.62,50.09,4.61,20.0,75,1.043,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Blond attempt 1,Blonde Ale,30,20.82,10.9735,2.93114,4.28,23.56,4.82,24.61,60,9.3,60.0,1.5,Plato,All Grain,1.5,2
+Donnie,Robust Porter,129,46.0,1.063,1.013,6.48,26.89,31.86,53.0,90,1.054,75.0,2.5,Specific Gravity,All Grain,2.5,5
+HAPA X,American Pale Ale,10,18.0,1.05,1.01,5.27,54.13,8.97,8.0,60,1.113,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+Grandma's stout,Sweet Stout,162,12.0,1.05,1.01,5.16,37.29,33.82,16.0,60,1.037,60.0,3.16,Specific Gravity,All Grain,3.16,5
+Rickys IPA,American IPA,7,11.36,1.071,1.014,7.58,170.86,13.2,5.68,60,1.143,25.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Ballantine IPA Clone,Imperial IPA,86,18.93,1.081,1.0190000000000001,8.08,76.02,9.15,28.39,90,1.054,65.0,1.25,Specific Gravity,All Grain,1.25,3
+Angry Elf,American IPA,7,20.82,1.037,1.01,3.61,0.0,6.02,28.39,60,1.0270000000000001,35.0,1.5,Specific Gravity,All Grain,1.5,2
+(Isabel) Catherine the Great,Imperial Stout,87,25.0,1.102,1.023,10.46,58.73,50.0,25.0,60,1.102,75.0,2.7,Specific Gravity,All Grain,2.7,6
+11 2017 Club Wee Heavy,American Light Lager,9,22.0,1.088,1.022,8.62,30.19,16.58,28.0,60,1.069,70.0,2.1850179985601157,Specific Gravity,BIAB,2.1850179985601157,3
+Two hearted Idea Extract,American IPA,7,9.46,1.0590000000000002,1.011,6.32,59.28,10.03,12.11,45,1.046,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+William Youngers 1851 60 shilling,Old Ale,116,48.0,1.074,1.031,5.66,53.77,7.45,54.0,60,1.0659999999999998,70.0,2.5,Specific Gravity,All Grain,2.5,2
+Saison no.3 (44),Saison,134,18.93,1.048,1.006,5.46,33.57,5.03,22.71,90,1.04,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Ed's Oktoberfest,Oktoberfest/Märzen,115,20.82,1.056,1.016,5.17,20.86,9.72,28.39,60,1.041,75.0,1.32,Specific Gravity,All Grain,1.32,2
+West Coast - Beach Bum Blonde,Blonde Ale,30,20.82,1.045,1.012,4.24,17.65,8.85,22.71,60,1.041,70.0,2.2130735220729356,Specific Gravity,All Grain,2.2130735220729356,2
+HefeWeizen Wed,Weissbier,169,26.0,1.05,1.008,5.59,13.58,3.26,30.0,60,1.043,72.0,3.0,Specific Gravity,All Grain,3.0,2
+Wheat IPA,Imperial IPA,86,18.93,1.069,1.016,7.0,80.71,6.25,24.11,60,1.054,70.0,1.5,Specific Gravity,All Grain,1.5,2
+HurDur,Belgian Pale Ale,24,21.0,1.057,1.0170000000000001,5.24,38.95,13.47,28.5,60,1.042,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Red X  Bock,Traditional Bock,163,25.0,1.07,1.0170000000000001,6.94,26.35,26.42,28.5,90,1.061,72.0,1.9616,Specific Gravity,All Grain,1.9616,5
+2015 - 7/3 --- American Wheat,Weizen/Weissbier,170,22.71,11.1957,3.0108099999999998,4.36,13.85,3.59,28.39,60,9.0,60.0,1.5,Plato,All Grain,1.5,2
+Altbier,Dusseldorf Altbier,51,18.93,1.0490000000000002,1.012,4.89,45.04,15.55,22.71,60,1.041,70.0,1.7653773584905663,Specific Gravity,BIAB,1.7653773584905663,2
+Pallet A 18,Irish Red Ale,92,48.0,1.0490000000000002,1.011,4.93,27.12,9.71,55.0,90,1.043,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Mtv hardcore 20 11 16,American Light Lager,9,26.0,1.052,1.01,5.57,41.65,6.24,28.5,60,1.048,61.0,3.0,Specific Gravity,All Grain,3.0,2
+Brown Bess,British Brown Ale,34,20.82,1.053,1.015,5.08,31.98,15.7,30.28,60,1.037,75.0,2.0127385892116183,Specific Gravity,BIAB,2.0127385892116183,2
+A bachelor's amber,Belgian Blond Ale,20,16.0,1.061,1.01,6.67,38.65,11.66,20.0,60,1.0490000000000002,40.0,2.331506237942122,Specific Gravity,BIAB,2.331506237942122,2
+Immortan Joe,Witbier,175,5.0,1.05,1.011,5.07,10.64,3.53,8.3,65,1.03,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Monkey Face Belgian Strong Ale,Belgian Golden Strong Ale,23,20.82,1.0270000000000001,1.005,2.83,24.35,4.65,28.39,60,1.02,35.0,1.1,Specific Gravity,All Grain,1.1,2
+Kettle sour experiment,Berliner Weisse,27,18.93,1.034,1.006,3.73,4.99,2.9,26.5,60,1.025,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Sierra Nevada Pale Ale Clone,American Pale Ale,10,20.1,1.055,1.011,5.82,38.89,9.43,23.8,90,1.047,78.0,2.5,Specific Gravity,All Grain,2.5,2
+Alma APA,American Pale Ale,10,52.0,1.051,1.0090000000000001,5.45,44.1,9.17,58.0,90,1.045,72.0,4.5,Specific Gravity,All Grain,4.5,2
+Bryn Gorog,Specialty Smoked Beer,153,21.0,1.058,1.008,6.54,36.45,5.71,28.5,60,1.043,90.0,3.0,Specific Gravity,All Grain,3.0,2
+Sleeman cream ale,Cream Ale,45,11.36,1.056,1.0170000000000001,5.09,17.16,4.67,17.98,60,1.035,70.0,1.905721757322176,Specific Gravity,BIAB,1.905721757322176,2
+Pale Ale - Sierra Nevada,American Pale Ale,10,22.0,1.052,1.012,5.24,32.38,5.59,28.5,60,1.04,75.0,4.0,Specific Gravity,All Grain,4.0,2
+Bourbon Barrel Parabola,Imperial Stout,87,17.03,1.1340000000000001,1.0270000000000001,13.98,103.95,50.0,28.2,120,1.081,60.0,1.5,Specific Gravity,All Grain,1.5,6
+Paulo's Pilsner #3,German Pilsner (Pils),81,21.0,1.044,1.008,4.77,36.55,4.07,28.5,60,1.033,50.0,2.906723776223778,Specific Gravity,BIAB,2.906723776223778,2
+Coco Loco Stout,American Stout,12,18.93,1.0659999999999998,1.016,6.57,63.46,38.56,11.36,60,1.109,60.0,1.8763916786226682,Specific Gravity,Partial Mash,1.8763916786226682,5
+#022 PINKMAGGIT Brewing Simcoe Mist 2.0,American IPA,7,9.0,1.077,1.02,7.49,52.47,6.27,12.0,60,1.057,63.0,3.0,Specific Gravity,All Grain,3.0,2
+Hafmeyjan V,Cream Ale,45,30.0,1.05,1.011,5.19,14.55,6.76,35.0,90,1.043,70.0,3.5,Specific Gravity,All Grain,3.5,2
+Fortside Brewing Black RyePA,American Pale Ale,10,11.36,1.075,1.02,7.12,120.09,32.77,11.36,60,1.075,70.0,2.2804632561436686,Specific Gravity,Partial Mash,2.2804632561436686,5
+Golden Boy,Belgian Golden Strong Ale,23,37.85,1.112,1.026,11.36,32.42,6.94,49.21,60,1.087,75.0,1.5,Specific Gravity,All Grain,1.5,3
+Samuel Adams Summer Ale,American Pale Ale,10,21.0,1.05,1.012,4.92,25.85,4.79,28.5,60,1.037,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Lucinda Hefe,Weizen/Weissbier,170,37.85,1.054,1.014,5.35,14.66,3.94,45.42,90,1.045,82.0,1.0,Specific Gravity,All Grain,1.0,2
+DHS Trooper (Robinsons),British Strong Ale,36,21.0,1.051,1.012,5.18,57.05,13.58,27.0,60,1.04,70.0,2.3239837398373986,Specific Gravity,BIAB,2.3239837398373986,2
+Tropical IPA,American IPA,7,3.79,1.056,1.011,6.0,60.3,13.28,5.68,60,1.038,35.0,1.5,Specific Gravity,All Grain,1.5,2
+PopSlim,Premium American Lager,124,22.0,1.053,1.01,5.69,30.04,5.12,30.0,60,1.0390000000000001,65.0,2.216607142857143,Specific Gravity,BIAB,2.216607142857143,2
+Awesome Recipe,American Brown Ale,6,40.0,1.048,1.012,4.72,0.0,50.0,28.5,60,1.067,35.0,3.0,Specific Gravity,All Grain,3.0,5
+Yeungling Lager Clone,Standard American Lager,156,18.93,1.051,1.014,4.84,18.05,12.14,24.61,60,1.0390000000000001,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Dracula's Citrus IPA,American IPA,7,21.0,1.06,1.011,6.44,57.57,8.47,28.4,60,1.044,63.0,3.0,Specific Gravity,All Grain,3.0,2
+Rye IPA,American IPA,7,22.71,1.0659999999999998,1.008,7.51,88.84,5.17,30.28,60,1.0490000000000002,74.0,1.45,Specific Gravity,All Grain,1.45,2
+Awesome Recipe,Sweet Stout,162,30.0,1.048,1.012,4.78,20.99,36.32,33.0,60,1.044,70.0,3.0,Specific Gravity,All Grain,3.0,5
+High Noon Session IPA,American IPA,7,18.93,1.047,1.008,5.03,44.49,7.34,23.96,60,1.037,63.0,1.2,Specific Gravity,All Grain,1.2,2
+Sour Ale - IPA Kettle Sour,Fruit Lambic,77,20.82,1.057,1.008,6.32,5.42,4.13,24.61,60,1.048,75.0,1.790961538461539,Specific Gravity,All Grain,1.790961538461539,2
+Dank Black IPA,Specialty IPA: Black IPA,148,28.0,1.056,1.011,6.0,55.5,33.59,34.0,65,1.046,65.0,3.1,Specific Gravity,All Grain,3.1,5
+Bombastic Smoke Pumpkin Seed Saison - PM,Saison,134,20.82,1.063,1.012,6.75,14.54,14.06,11.36,60,1.0871025818274553,35.0,2.037900446144041,Specific Gravity,extract,2.037900446144041,2
+Anchor Steam beer Clone,California Common,38,18.0,1.052,1.011,5.36,34.27,11.57,22.0,60,1.042,73.0,4.0,Specific Gravity,All Grain,4.0,2
+????? ?????,American Pale Ale,10,10.0,1.0490000000000002,1.011,4.93,33.39,3.75,15.0,60,1.033,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Anthony V3,Robust Porter,129,22.33,1.074,1.021,6.84,42.92,38.61,28.39,60,1.058,70.0,1.5,Specific Gravity,All Grain,1.5,5
+21NOV15 Pale ale,American Pale Ale,10,21.0,1.053,1.014,5.21,55.15,3.75,28.5,60,1.0390000000000001,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Down and Out Stout,American Stout,12,37.85,1.077,1.025,6.87,22.31,40.6,41.64,30,1.07,55.0,1.8763916786226682,Specific Gravity,All Grain,1.8763916786226682,5
+Brazilian Kolsh,Kölsch,94,6.3,1.048,1.011,4.82,16.86,3.78,8.8,60,1.034,60.0,2.0564335754189935,Specific Gravity,BIAB,2.0564335754189935,2
+Red,American Amber Ale,4,20.82,1.055,1.015,5.2,34.55,15.48,26.5,60,1.043,70.0,1.33,Specific Gravity,All Grain,1.33,2
+Session IPA,American IPA,7,20.82,1.058,1.011,6.11,59.63,6.68,28.39,60,1.042,75.0,2.0,Specific Gravity,All Grain,2.0,2
+ELF,Belgian Dark Strong Ale,21,20.82,1.083,1.0190000000000001,8.43,36.84,17.37,28.39,60,1.061,75.0,1.964594594594595,Specific Gravity,All Grain,1.964594594594595,3
+Andrea camuto,California Common Beer,39,490.0,17.9548,3.3991599999999997,7.96,25.06,5.12,530.0,60,16.7,83.0,3.5,Plato,All Grain,3.5,2
+ARCaliLager,Premium American Lager,124,25.36,1.057,1.0070000000000001,6.54,15.19,3.88,28.96,60,1.05,69.0,3.33,Specific Gravity,All Grain,3.33,2
+Jerrys Porter,Brown Porter,37,124.92,1.0590000000000002,1.014,5.92,50.63,27.67,136.27,60,1.054,78.0,1.33,Specific Gravity,All Grain,1.33,5
+Say Hey Session IPA,Specialty Beer,145,18.93,1.0490000000000002,1.012,4.96,48.54,7.05,28.39,60,1.033,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Trip Hop,American IPA,7,25.0,1.069,1.012,7.51,87.42,4.77,28.5,60,1.06,75.0,3.0,Specific Gravity,All Grain,3.0,2
+French Extract Amber Ale,American Amber Ale,4,20.82,1.06,1.0170000000000001,5.62,39.7,13.62,28.39,60,1.044,70.0,2.1336110307414087,Specific Gravity,extract,2.1336110307414087,2
+Ovis 2.0 Stout,American Light Lager,9,19.87,1.058,1.01,6.32,54.31,38.95,24.61,60,1.047,70.0,1.5,Specific Gravity,All Grain,1.5,5
+Hop Goblin,Best Bitter,28,45.0,1.046,1.01,4.6,34.75,13.58,50.0,60,1.041,75.0,2.5572614107883824,Specific Gravity,BIAB,2.5572614107883824,2
+AleSmith IPA Clone - 20L,American IPA,7,20.0,1.084,1.0190000000000001,8.57,42.29,11.22,23.3,60,1.072,80.0,2.0243738248981953,Specific Gravity,All Grain,2.0243738248981953,3
+Itchy Huevos,Vienna Lager,167,41.64,1.057,1.0170000000000001,5.15,28.33,12.22,47.32,90,1.05,74.0,1.5,Specific Gravity,All Grain,1.5,2
+Hop to it,American IPA,7,20.0,1.047,1.0090000000000001,4.98,36.36,5.49,28.0,60,1.033,70.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Villa Bravia,American Pale Ale,10,70.0,1.051,1.012,5.18,32.53,5.04,77.0,60,1.047,75.0,2.2804632561436686,Specific Gravity,All Grain,2.2804632561436686,2
+AAA,American Amber Ale,4,21.0,1.038,1.0070000000000001,4.11,32.95,7.01,28.5,60,1.028,65.0,2.1336110307414087,Specific Gravity,BIAB,2.1336110307414087,2
+Red Rye Ale,Irish Red Ale,92,9.46,1.057,1.013,5.73,25.6,15.33,11.36,60,1.047,75.0,2.2631598877980363,Specific Gravity,BIAB,2.2631598877980363,2
+Southern Smoked Porter,Brown Porter,37,21.0,1.0490000000000002,1.014,4.67,33.47,24.94,28.5,60,1.036,68.0,2.1009784482758618,Specific Gravity,BIAB,2.1009784482758618,5
+Global Warmer clone,Imperial IPA,86,21.77,1.0659999999999998,1.016,6.68,58.84,14.31,29.15,60,1.05,65.0,1.808331280788176,Specific Gravity,BIAB,1.808331280788176,2
+Krakenbock,Traditional Bock,163,15.52,1.08,1.022,7.0,0.0,15.79,22.71,60,1.0589927240333987,75.0,1.9616,Specific Gravity,extract,1.9616,2
+DeLuks IPA,American IPA,7,10.0,1.0590000000000002,1.012,6.18,57.96,10.46,15.0,60,1.0390000000000001,75.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+The Old Elm,American Barleywine,5,11.36,1.093,1.023,9.12,119.09,17.54,13.25,60,1.079,75.0,1.6704563106796118,Specific Gravity,BIAB,1.6704563106796118,3
+Dwayyo Stout,Foreign Extra Stout,72,20.82,1.0659999999999998,1.012,7.13,49.48,44.12,11.36,60,1.121,60.0,2.297752808988765,Specific Gravity,Partial Mash,2.297752808988765,5
+Berliner Weisse,Berliner Weisse,27,28.0,1.0290000000000001,1.005,3.13,3.31,2.52,32.0,15,1.025,80.0,2.0794583333333336,Specific Gravity,BIAB,2.0794583333333336,2
+I'm your Huckleberry,American Pale Ale,10,18.93,1.043,1.01,4.38,17.78,5.6,28.39,90,1.0290000000000001,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Legless half batch,Best Bitter,28,450.0,1.043,1.0070000000000001,4.69,34.77,5.98,500.0,60,1.0390000000000001,80.0,2.7,Specific Gravity,All Grain,2.7,2
+Ten Fiddy OB Recipe,Imperial Stout,87,18.93,1.111,1.032,10.48,72.42,50.0,26.5,90,1.08,72.0,1.4,Specific Gravity,All Grain,1.4,6
+Big Imperial IPA #1,Imperial IPA,86,18.93,1.091,1.023,8.96,113.94,9.53,11.36,60,1.105353848737579,75.0,1.808331280788176,Specific Gravity,extract,1.808331280788176,3
+Super Mario Session IPA,American IPA,7,20.82,1.05,1.012,4.89,148.65,2.97,13.25,90,1.048,25.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Koko's Oatmeal Stout,American Stout,12,18.93,1.051,1.011,5.34,26.67,29.44,28.39,60,1.034,56.0,1.8763916786226682,Specific Gravity,BIAB,1.8763916786226682,5
+Barefoot Bohemian Pilsner,Czech Premium Pale Lager,50,50.0,1.045,1.011,4.5,45.5,2.96,57.0,90,1.04,70.0,4.867,Specific Gravity,All Grain,4.867,2
+Belgian Pale,American Light Lager,9,37.85,1.054,1.013,5.37,21.01,4.6,43.53,60,1.047,80.0,2.1850179985601157,Specific Gravity,BIAB,2.1850179985601157,2
+Steinhogger 2017,Czech Amber Lager,47,50.0,1.048,1.01,4.95,23.68,6.4,25.0,60,1.0959999999999999,75.0,1.858125,Specific Gravity,Partial Mash,1.858125,2
+Bourbon Vanilla Porter,American Porter,11,3.79,1.082,1.016,8.76,42.04,34.79,7.57,60,1.041,85.0,1.5,Specific Gravity,All Grain,1.5,6
+Gahr Pils 25L,German Pilsner (Pils),81,25.0,1.048,1.0070000000000001,5.39,31.9,3.97,30.0,90,1.04,80.0,3.0,Specific Gravity,All Grain,3.0,2
+Pale pilsner,American Pale Ale,10,53.0,1.047,1.0090000000000001,5.02,29.77,4.57,58.0,70,1.043,75.0,3.0,Specific Gravity,All Grain,3.0,2
+MDZ,Specialty IPA: Red IPA,150,22.5,1.068,1.013,7.28,62.76,13.89,29.0,75,1.053,73.5,3.0,Specific Gravity,All Grain,3.0,2
+Pale Gal,American Pale Ale,10,20.82,1.053,1.012,5.4,44.84,9.58,28.39,60,1.0390000000000001,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Cascade IPA (4th Brew),American Pale Ale,10,18.93,1.0659999999999998,1.012,6.97,48.66,5.04,28.39,60,1.044,64.0,1.5,Specific Gravity,All Grain,1.5,2
+California common,American Lager,8,21.0,1.045,1.011,4.47,36.93,3.6,25.0,60,1.038,80.0,3.0,Specific Gravity,All Grain,3.0,2
+Kjeller 5 Cascadian Pale Ale 25l,American Pale Ale,10,25.0,1.051,1.0090000000000001,5.45,34.67,4.06,28.0,60,1.046,70.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+Belgian Blonde Ale,Belgian Blond Ale,20,37.85,1.061,1.02,5.44,24.38,5.74,53.0,60,1.044,68.0,1.25,Specific Gravity,All Grain,1.25,2
+Red Nectar Ale Clone,California Common Beer,39,18.93,1.05,1.01,5.36,25.7,16.15,24.61,60,1.0390000000000001,65.0,1.5,Specific Gravity,All Grain,1.5,2
+Belgian Tripel,Belgian Tripel,26,12.49,1.08,1.02,7.85,33.81,7.13,13.25,60,1.075,35.0,2.0433617021276596,Specific Gravity,extract,2.0433617021276596,2
+Bitchin' Belgian Wit,Witbier,175,41.64,1.036,1.0070000000000001,3.76,13.54,2.96,47.32,90,1.0350961480097718,75.0,2.2309730831973895,Specific Gravity,All Grain,2.2309730831973895,2
+Kogellager,German Pilsner (Pils),81,14.0,1.05,1.011,5.01,36.72,2.94,20.0,60,1.035,73.0,3.0,Specific Gravity,All Grain,3.0,2
+Shillingsworth English Mild Ale,Dark Mild,53,20.82,1.038,1.0090000000000001,3.8,20.32,22.7,24.61,60,1.032,73.0,1.63,Specific Gravity,All Grain,1.63,2
+Andrew's Alpha,American IPA,7,22.71,1.055,1.014,5.44,56.17,6.13,26.5,60,1.047,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Awesome Recipe,American Pale Ale,10,23.0,1.057,1.012,5.81,40.68,3.5,30.0,75,1.043,79.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+World's IPA,American IPA,7,90.85,1.0590000000000002,1.013,6.01,69.84,5.26,105.99,70,1.051,80.0,1.5,Specific Gravity,All Grain,1.5,2
+Easy American Brown,American Brown Ale,6,20.82,1.058,1.014,5.7,44.22,22.64,11.36,60,1.1059999999999999,35.0,1.9293349131121658,Specific Gravity,Partial Mash,1.9293349131121658,2
+EL Hefe,Weizen/Weissbier,170,39.75,1.054,1.013,5.39,8.61,4.49,41.64,60,1.051,72.5,1.5,Specific Gravity,All Grain,1.5,2
+Belgian Pale Pumpkin Ale,Belgian Pale Ale,24,22.71,1.053,1.015,4.92,22.59,8.67,26.5,90,1.045,70.0,1.5,Specific Gravity,All Grain,1.5,2
+SOS Rye IPA v.3,American IPA,7,19.87,1.048,1.0090000000000001,5.1,87.67,7.61,11.36,60,1.084,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Anchor Steam Clone,California Common Beer,39,11.36,1.057,1.018,5.14,70.55,11.5,15.14,60,1.043,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Imperial Entanglements,Russian Imperial Stout,132,11.36,1.121,1.022,13.08,52.76,50.0,18.93,120,1.07,67.0,1.8851853932584286,Specific Gravity,BIAB,1.8851853932584286,6
+Bavarian Mandarina,American Pale Ale,10,23.0,1.052,1.0090000000000001,5.67,31.72,6.33,25.0,60,1.048,75.0,2.2804632561436686,Specific Gravity,All Grain,2.2804632561436686,2
+Pumpkin Mead!,Sweet Mead,161,5.68,1.0979999999999999,1.025,9.65,0.0,4.29,5.68,0,1.0979999999999999,35.0,2.417857142857143,Specific Gravity,extract,2.417857142857143,3
+Chocolate Wasted,Imperial Stout,87,18.93,1.0959999999999999,1.025,9.29,67.53,50.0,26.5,150,1.069,63.0,1.25,Specific Gravity,All Grain,1.25,6
+Pumpkin Beer: Take One,Autumn Seasonal Beer,18,18.93,1.065,1.015,6.57,29.51,12.11,26.5,60,1.046,62.0,1.801875,Specific Gravity,All Grain,1.801875,2
+Master Exploder IPA,American IPA,7,11.36,1.099,1.0190000000000001,10.49,106.95,21.71,15.14,40,1.074,75.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,3
+Nelson - en apa,American Pale Ale,10,23.0,1.065,1.015,6.59,81.53,5.01,27.0,60,1.055,62.0,3.0,Specific Gravity,All Grain,3.0,2
+Red Hop Irish ale,Irish Red Ale,92,20.82,1.061,1.011,6.56,46.58,16.89,26.5,60,1.048,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Disco Demolition Double IPA,Imperial IPA,86,18.93,1.1,1.023,10.06,204.56,13.09,18.93,60,1.1,44.0,1.808331280788176,Specific Gravity,extract,1.808331280788176,3
+Pils,International Pale Lager,90,20.82,1.048,1.0090000000000001,5.21,31.48,3.1,26.5,60,1.038,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Florida IPA,American IPA,7,20.82,1.067,1.02,6.23,72.86,4.89,28.39,60,1.0490000000000002,68.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Buzzblasters Pale Ale,Special/Best/Premium Bitter,144,20.82,1.053,1.0090000000000001,5.83,95.57,8.01,26.5,60,1.042,73.0,1.33,Specific Gravity,All Grain,1.33,2
+Howling In The Night Porter,American Porter,11,22.71,1.057,1.014,5.68,34.95,32.44,28.39,60,1.045,78.0,1.6,Specific Gravity,All Grain,1.6,5
+Pliney The Elder Clone,English IPA,65,18.93,1.0859999999999999,1.021,8.56,144.88,7.79,9.46,60,1.172,35.0,2.4856328293736496,Specific Gravity,extract,2.4856328293736496,3
+Takeover Tripel,Belgian Tripel,26,40.0,1.09,1.016,9.7,9.8,4.82,45.0,60,1.08,75.0,3.0,Specific Gravity,All Grain,3.0,3
+Attempt #2 APA,American Pale Ale,10,25.0,12.8415,2.52617,5.52,49.87,8.64,17.0,60,18.5,35.0,2.890701863354037,Plato,extract,2.890701863354037,2
+Ipa,American IPA,7,18.93,1.061,1.015,6.02,77.74,11.77,11.36,60,1.102,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Almost All Grain Brutis,American Barleywine,5,41.64,1.157,1.028,16.95,175.68,9.18,49.21,120,1.133,70.0,1.5,Specific Gravity,All Grain,1.5,3
+Savory Saison,Saison,134,20.82,1.07,1.01,7.86,25.36,7.32,26.5,60,1.055,75.0,1.8,Specific Gravity,All Grain,1.8,2
+_R006 - Aged Hop Sour,Mixed-Fermentation Sour Beer,106,2044.12,1.041,1.002,5.1,10.64,3.76,2384.81,120,1.035,55.0,1.5,Specific Gravity,All Grain,1.5,2
+Hop Funk Monk,Specialty IPA: Belgian IPA,147,41.64,1.068,1.016,6.86,83.6,9.58,51.1,60,1.056,75.0,1.25,Specific Gravity,All Grain,1.25,2
+Amber Ale,American Amber Ale,4,20.82,1.0590000000000002,1.014,6.01,48.68,15.71,28.39,60,1.044,72.0,1.5,Specific Gravity,All Grain,1.5,2
+Summer Saison,Saison,134,20.82,1.048,1.01,5.03,26.93,7.28,11.36,60,1.0746022170235277,35.0,2.037900446144041,Specific Gravity,extract,2.037900446144041,2
+SNUout,American Stout,12,20.0,1.063,1.022,5.39,33.34,37.86,26.0,60,1.0490000000000002,74.0,2.5,Specific Gravity,All Grain,2.5,5
+Common Criminal,California Common Beer,39,41.64,1.0590000000000002,1.018,5.44,33.56,12.16,47.32,60,1.052,78.0,2.0911964601769917,Specific Gravity,BIAB,2.0911964601769917,2
+Lake Pepin Pale Ale,American Pale Ale,10,18.93,1.057,1.014,5.64,24.65,9.56,28.39,60,1.038,65.0,1.5,Specific Gravity,All Grain,1.5,2
+American Pilsner 2017OCT29,German Pils,80,40.69,1.046,1.012,4.46,34.81,2.82,45.42,90,1.041,76.0,1.33,Specific Gravity,All Grain,1.33,2
+Northy X Belgian Quad,Belgian Dark Strong Ale,21,20.82,1.099,1.0190000000000001,10.49,46.21,28.15,25.55,60,1.08,80.0,1.25,Specific Gravity,All Grain,1.25,6
+Rye Pale,American Pale Ale,10,37.85,1.0590000000000002,1.014,5.94,43.76,7.24,41.64,60,1.054,80.0,1.5,Specific Gravity,All Grain,1.5,2
+Oatmeal Stout,Oatmeal Stout,114,20.18,1.0490000000000002,1.013,4.73,17.74,32.54,28.39,60,1.035,70.0,1.54,Specific Gravity,All Grain,1.54,5
+Belgian Wheat,Belgian Pale Ale,24,20.82,1.056,1.011,5.84,32.51,6.65,26.5,90,1.044,70.0,1.4,Specific Gravity,All Grain,1.4,2
+Bruno's IPA,American IPA,7,11.36,1.073,1.01,8.26,127.26,4.45,7.57,60,1.078,25.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,3
+Blonde honey ale,Blonde Ale,30,13.25,1.045,1.011,4.4,17.08,4.79,15.14,60,1.0390000000000001,85.0,0.77,Specific Gravity,All Grain,0.77,2
+Crystal Rye II,American Amber Ale,4,22.71,1.044,1.0090000000000001,4.55,38.79,12.96,18.93,40,1.052,67.0,2.1336110307414087,Specific Gravity,Partial Mash,2.1336110307414087,2
+Ginger Short Mead,Open Category Mead,117,2.0,1.054,1.011,5.72,0.0,15.69,3.0,60,1.036,70.0,1.4416666666666667,Specific Gravity,extract,1.4416666666666667,2
+Double batch concentrated,Cream Ale,45,20.82,1.091,1.022,9.02,72.45,5.03,24.61,60,1.077,70.0,1.25,Specific Gravity,All Grain,1.25,3
+Jukka's Amber,American IPA,7,20.0,1.0590000000000002,1.013,6.03,60.37,14.26,24.0,60,1.0490000000000002,35.0,2.0243738248981953,Specific Gravity,Partial Mash,2.0243738248981953,2
+Caramel Vanilla Cream Ale,Cream Ale,45,18.93,1.055,1.013,5.51,22.31,6.53,9.46,55,1.0798413658829482,35.0,1.905721757322176,Specific Gravity,extract,1.905721757322176,2
+Centennial Blonde,Blonde Ale,30,24.0,1.04,1.0090000000000001,4.17,28.02,4.13,27.5,60,1.035,75.0,2.9,Specific Gravity,All Grain,2.9,2
+Wild Rosey,American Stout,12,7.57,1.068,1.0190000000000001,6.45,50.67,32.45,7.57,60,1.0636405070355415,65.0,1.8763916786226682,Specific Gravity,extract,1.8763916786226682,5
+Butter Cookie Ale,Clone Beer,43,19.87,1.0590000000000002,1.02,5.17,0.0,10.37,11.36,60,1.104,35.0,1.8485344827586205,Specific Gravity,extract,1.8485344827586205,2
+Granite Bay Grand Cru,Flanders Red Ale,71,24.61,1.062,1.011,6.63,4.69,22.12,32.18,90,1.047,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Rauchbier,Rauchbier,128,11.0,1.056,1.013,5.66,24.75,16.05,15.5,60,1.04,79.0,3.0,Specific Gravity,All Grain,3.0,2
+India Pale Lager,Mixed-Style Beer,107,9.46,1.06,1.014,5.94,97.71,6.62,13.25,60,1.043,70.0,2.0357608695652174,Specific Gravity,BIAB,2.0357608695652174,2
+First Time IPA,American IPA,7,18.93,1.072,1.013,7.67,76.26,6.59,22.71,60,1.06,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Tripel,Belgian Tripel,26,25.0,1.079,1.012,8.78,21.7,6.0,32.0,60,1.062,70.0,3.0,Specific Gravity,All Grain,3.0,3
+Ginger American Wheat,American Wheat Beer,14,25.0,1.052,1.01,5.42,23.08,3.38,29.0,90,1.044,70.0,1.9064315245478038,Specific Gravity,All Grain,1.9064315245478038,2
+Oatmeal Stout,Oatmeal Stout,114,18.93,1.054,1.0170000000000001,4.8,41.55,31.92,20.82,60,1.0490000000000002,65.0,2.0342862385321103,Specific Gravity,Partial Mash,2.0342862385321103,5
+Shanghai,Weizen/Weissbier,170,11.0,1.053,1.014,5.13,16.67,3.92,14.7,60,1.04,64.0,2.247236286919832,Specific Gravity,All Grain,2.247236286919832,2
+Cream Ale,Cream Ale,45,42.0,1.05,1.011,5.11,6.81,5.0,50.0,60,1.042,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Pumpkin spice ale,Spice  Herb  or Vegetable Beer,155,18.93,1.067,1.023,5.76,29.05,12.47,28.39,60,1.045,65.0,1.39,Specific Gravity,All Grain,1.39,2
+SsBb rye pale,American Pale Ale,10,50.0,1.048,1.011,4.84,36.51,4.93,56.0,60,1.043,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Galaxy Pale Ale,American Pale Ale,10,7.57,1.0590000000000002,1.015,5.84,68.88,6.37,13.25,60,1.034,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Hefewiezen 3.2017,Weizen/Weissbier,170,13.25,1.05,1.0070000000000001,5.61,9.89,3.67,5.68,30,1.032,35.0,2.247236286919832,Specific Gravity,extract,2.247236286919832,2
+Star Dicks - Coffee IPA,American IPA,7,20.82,1.056,1.013,5.62,59.36,7.67,28.39,60,1.041,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Ryeish,American Pale Ale,10,21.0,1.061,1.015,6.03,72.08,4.68,28.5,60,1.045,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Anniversary IPA,American IPA,7,20.82,1.057,1.014,5.67,71.37,10.45,28.39,60,1.042,75.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Mead s04,American Light Lager,9,3.79,1.105,1.026,10.34,0.0,4.5,28.39,60,1.014,66.0,2.1850179985601157,Specific Gravity,BIAB,2.1850179985601157,3
+Andi's Helles,Munich Helles,109,23.0,1.047,1.0070000000000001,5.21,22.18,5.97,28.4,60,1.038,75.0,2.0239450000000003,Specific Gravity,All Grain,2.0239450000000003,2
+18-American Pale Ale 18L,American Pale Ale,10,18.0,1.046,1.013,4.34,38.86,9.57,14.0,60,1.0590000000000002,60.0,1.0,Specific Gravity,All Grain,1.0,2
+Richard,Weissbier,169,25.0,1.051,1.013,5.04,0.0,4.38,28.5,60,1.045,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Hollister Chocolate Vanilla Porter,American Porter,11,41.64,1.07,1.026,5.75,52.18,34.74,53.0,75,1.055,75.0,1.5,Specific Gravity,All Grain,1.5,5
+SP Pale,American Pale Ale,10,18.93,1.056,1.014,5.51,0.0,6.32,18.93,60,1.0576092521640503,75.0,2.2804632561436686,Specific Gravity,Partial Mash,2.2804632561436686,2
+Dunkel Weissbier,Dunkelweizen,59,30.0,1.05,1.012,5.04,14.46,16.56,35.5,90,1.043,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Just a bit tipsy (1),American Pale Ale,10,23.0,1.052,1.0090000000000001,5.56,34.9,7.01,28.0,60,1.043,75.0,3.0,Specific Gravity,All Grain,3.0,2
+DDC Moralité Clone,American IPA,7,19.0,1.053,1.0090000000000001,5.8,67.62,5.79,28.5,60,1.035,70.0,2.5,Specific Gravity,All Grain,2.5,2
+Chocolate Cherry Xmas Stout,Fruit and Spice Beer,74,4.16,1.061,1.0170000000000001,5.74,23.95,45.01,4.54,15,1.056,68.0,1.6763157894736842,Specific Gravity,BIAB,1.6763157894736842,5
+Brown Ale,American Amber Ale,4,29.0,1.0590000000000002,1.013,6.04,30.04,22.58,35.0,90,1.0490000000000002,78.0,2.1336110307414087,Specific Gravity,Partial Mash,2.1336110307414087,2
+Churton St. IPA,American IPA,7,24.61,1.07,1.018,6.89,61.37,5.88,30.28,60,1.057,81.0,1.5,Specific Gravity,All Grain,1.5,2
+Mosaic Pale Ale,American Pale Ale,10,20.82,1.062,1.016,6.05,52.47,7.24,26.5,90,1.0490000000000002,70.0,2.2804632561436686,Specific Gravity,All Grain,2.2804632561436686,2
+Coquito Addition,American Light Lager,9,11.36,5.35966,1.35595,2.08,0.0,3.27,15.14,60,4.0,35.0,1.5,Plato,All Grain,1.5,2
+Uus,Specialty IPA: Red IPA,150,54.0,1.06,1.011,6.47,52.87,16.94,58.0,60,1.056,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Awesome Recipe,German Pilsner (Pils),81,7.57,1.048,1.013,4.55,37.38,3.17,7.57,60,1.048,35.0,2.906723776223778,Specific Gravity,extract,2.906723776223778,2
+Teenage Age Mutant Ninja Turtle Rye PA,American Pale Ale,10,20.82,1.054,1.01,5.77,49.64,7.42,28.39,60,1.04,70.0,1.33,Specific Gravity,All Grain,1.33,2
+OSS,Double IPA,56,20.82,1.072,1.013,7.71,92.37,5.2,26.5,60,1.056,63.0,1.5,Specific Gravity,All Grain,1.5,2
+Toasty Nuts Brown Ale,American Brown Ale,6,20.82,1.058,1.013,5.88,0.0,21.2,23.85,60,1.052529215771553,70.0,1.9293349131121658,Specific Gravity,All Grain,1.9293349131121658,2
+Yellow Snow,American IPA,7,43.53,1.07,1.021,6.47,59.53,7.0,49.21,60,1.055,75.0,1.1,Specific Gravity,All Grain,1.1,2
+Chump Red Rye Ale,American Amber Ale,4,9.46,1.06,1.015,5.82,15.62,17.78,13.25,60,1.043,80.0,2.1336110307414087,Specific Gravity,BIAB,2.1336110307414087,2
+Yorkshire Bitter Mod,Special/Best/Premium Bitter,144,20.82,1.043,1.01,4.3,30.44,11.86,26.5,60,1.034,80.0,2.5249065957446795,Specific Gravity,All Grain,2.5249065957446795,2
+Berliner Weisse,Berliner Weisse,27,45.42,1.031,1.006,3.26,4.62,3.22,49.21,15,1.028,60.0,1.5,Specific Gravity,All Grain,1.5,2
+Lolarium Alley Tripel,Belgian Tripel,26,20.82,1.097,1.02,10.0,41.11,7.89,28.39,60,1.071,75.0,1.25,Specific Gravity,All Grain,1.25,3
+Jai Alai,American IPA,7,41.64,1.079,1.023,7.36,87.61,9.64,50.35,60,1.065,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Yankee Breakfast,Imperial Stout,87,38.0,1.101,1.015,11.25,68.37,44.35,49.0,75,1.078,70.0,1.8478668171557562,Specific Gravity,All Grain,1.8478668171557562,6
+Bagpipe Ale,Strong Scotch Ale,160,20.82,1.071,1.021,6.64,53.1,27.46,28.39,75,1.052,70.0,1.0,Specific Gravity,All Grain,1.0,5
+Galaxy Secret Imperial [PM],Imperial IPA,86,21.0,1.079,1.015,8.3,115.99,10.09,16.0,60,1.103,70.0,1.808331280788176,Specific Gravity,Partial Mash,1.808331280788176,3
+Baby DIPA,Double IPA,56,25.0,1.07,1.015,7.26,80.22,13.37,20.0,60,1.088,70.0,2.5,Specific Gravity,All Grain,2.5,2
+Sitra Ale,English IPA,65,23.0,1.0490000000000002,1.008,5.33,59.67,5.83,27.0,70,1.041,75.0,2.5,Specific Gravity,All Grain,2.5,2
+Sunset Ale,Irish Red Ale,92,21.0,1.058,1.016,5.5,26.03,11.73,27.7,60,1.044,75.0,3.4,Specific Gravity,All Grain,3.4,2
+Wimpy Super Moon Kölsch,Kölsch,94,20.82,1.047,1.012,4.58,24.55,3.46,28.39,60,1.032305913483066,75.0,2.0564335754189935,Specific Gravity,BIAB,2.0564335754189935,2
+Octoberfest Ah La Bmish,Oktoberfest/Märzen,115,22.71,1.057,1.013,5.7,27.64,8.71,30.28,60,1.043,75.0,1.7476525821596247,Specific Gravity,BIAB,1.7476525821596247,2
+KriBaker Blueberry (Gluten Free),American Wheat or Rye Beer,15,18.93,1.044,1.012,4.24,28.8,3.59,13.25,60,1.063,35.0,1.70597609561753,Specific Gravity,extract,1.70597609561753,2
+A Pretty IPA,American IPA,7,23.0,1.069,1.0170000000000001,6.81,65.3,8.22,25.0,60,1.064,75.0,4.0,Specific Gravity,All Grain,4.0,2
+El Squid Roe,Vienna Lager,167,22.71,1.0490000000000002,1.01,5.04,24.38,9.1,26.5,60,1.042,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Peach Wheat,Fruit Beer,75,37.85,1.054,1.01,5.66,36.93,5.16,45.42,90,1.045,65.0,1.5,Specific Gravity,All Grain,1.5,2
+Medusa IPA,American IPA,7,20.82,1.06,1.012,6.35,57.32,12.47,28.39,60,1.044,75.0,2.0243738248981953,Specific Gravity,All Grain,2.0243738248981953,2
+Funktown pale ale,American Pale Ale,10,22.71,1.053,1.011,5.52,52.46,5.78,34.07,90,1.035,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Yellow rose clone,American IPA,7,20.82,1.063,1.015,6.29,87.71,4.53,11.36,60,1.115,70.0,2.0243738248981953,Specific Gravity,Partial Mash,2.0243738248981953,2
+SMaSHed,American IPA,7,20.82,1.055,1.012,5.59,118.53,5.94,26.69,60,1.043,72.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Pils,International Pale Lager,90,60.01,1.045,1.0070000000000001,5.03,15.36,3.0,60.0,60,1.045,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Columbus/Galaxy Pale Ale Tier 6,American Pale Ale,10,24.61,1.06,1.016,5.86,42.53,6.39,32.18,90,1.046,75.0,1.5,Specific Gravity,All Grain,1.5,2
+LEFRANCE Bière de Garde,Bière de Garde,29,3.79,1.0759999999999998,1.014,8.16,26.48,14.47,5.68,60,1.051,70.0,1.5,Specific Gravity,All Grain,1.5,3
+DDH Dank Sauce,American IPA,7,22.71,1.077,1.02,7.47,55.43,5.93,28.39,60,1.062,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Belma Farmhouse,Saison,134,20.82,1.068,1.016,6.78,35.68,8.77,26.5,60,1.0544478322528628,70.0,2.037900446144041,Specific Gravity,All Grain,2.037900446144041,2
+WheatWave,American Wheat Beer,14,9.0,1.054,1.01,5.76,20.02,4.33,12.0,60,1.041,80.0,2.9,Specific Gravity,All Grain,2.9,2
+Cranberry Ale,Fruit Beer,75,20.82,1.071,1.018,6.94,45.13,8.2,24.61,60,1.06,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Kohler's Kölsch,Kölsch,94,20.82,1.051,1.013,5.02,29.49,3.96,22.71,60,1.047,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Family - Bonde #01,Mixed-Fermentation Sour Beer,106,20.82,1.058,1.011,6.12,28.08,3.76,22.71,60,1.053,70.0,1.3,Specific Gravity,All Grain,1.3,2
+CanadianWheat Malt - SMaSH,American IPA,7,3.8,15.4824,4.34436,6.05,57.26,8.95,9.0,60,6.7,70.0,2.6802690582959645,Plato,BIAB,2.6802690582959645,2
+Chimay Blue Clone,Belgian Dark Strong Ale,21,20.82,1.083,1.02,8.26,23.7,18.32,28.39,90,1.061,70.0,1.964594594594595,Specific Gravity,BIAB,1.964594594594595,3
+Polaris Pale,American Light Lager,9,21.5,1.052,1.01,5.43,32.28,4.04,13.0,30,1.0859999999999999,84.0,2.1850179985601157,Specific Gravity,BIAB,2.1850179985601157,2
+Awesome Recipe,California Common Beer,39,20.82,1.065,1.016,6.41,0.0,21.68,28.39,60,1.048,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Sm,American Pale Ale,10,12.5,1.052,1.0090000000000001,5.61,35.98,9.95,13.0,60,1.05,65.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+Black ipa,Specialty IPA: Black IPA,148,39.75,1.057,1.014,5.58,88.66,37.81,45.42,60,1.05,85.0,1.4,Specific Gravity,All Grain,1.4,5
+3 Hops Outside Ebbing  Missouri,American IPA,7,37.85,1.0590000000000002,1.014,5.95,63.21,4.78,56.78,55,1.04,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Robust Porter Tier 6,Robust Porter,129,24.61,1.06,1.0170000000000001,5.69,55.68,41.19,32.18,90,1.046,75.0,1.5,Specific Gravity,All Grain,1.5,5
+Roundtable IPA,American IPA,7,22.71,1.061,1.012,6.7,97.91,6.02,7.57,60,1.183,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Berliner Weisse #2,Berliner Weisse,27,25.0,1.033,1.002,4.02,2.41,2.88,26.0,0,1.031,65.0,2.5,Specific Gravity,All Grain,2.5,2
+Blackberry Stout,American Stout,12,18.93,1.055,1.016,5.24,27.75,30.23,11.36,60,1.092,35.0,1.8763916786226682,Specific Gravity,extract,1.8763916786226682,5
+Kaz hops 30 Aug 2017,American Light Lager,9,28.0,1.055,1.011,5.74,32.51,4.17,29.0,60,1.053,99.0,6.0,Specific Gravity,All Grain,6.0,2
+NEIPA #2,Specialty IPA: White IPA,152,6.0,1.062,1.015,6.11,30.72,4.13,6.8,30,1.055,80.0,2.2293333333333334,Specific Gravity,BIAB,2.2293333333333334,2
+Caliente Pale Ale,American Pale Ale,10,23.0,1.057,1.015,5.48,42.32,8.0,28.5,60,1.046,70.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+TRB - Golden Sour (base),Straight (Unblended) Lambic,158,20.82,1.048,1.0070000000000001,5.45,2.4,5.46,28.39,90,1.036,76.0,1.5,Specific Gravity,All Grain,1.5,2
+Citra Wheat Beer,Weissbier,169,23.0,1.054,1.014,5.24,9.23,4.38,28.5,60,1.044,75.0,3.0,Specific Gravity,All Grain,3.0,2
+G&G Starkaiser IPA,Specialty IPA: Red IPA,150,18.0,1.061,1.015,5.96,0.0,4.72,34.0,60,1.032,66.0,1.5,Specific Gravity,All Grain,1.5,2
+20180219 EXTRACT IPA + Dextrose,American IPA,7,21.0,1.065,1.015,6.54,69.54,7.55,6.5,30,1.05,25.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+The Pilgrims Admiral,Extra Special/Strong Bitter (ESB),68,21.0,1.0659999999999998,1.015,6.68,126.73,8.69,28.5,60,1.0490000000000002,65.0,2.1674527777777786,Specific Gravity,BIAB,2.1674527777777786,2
+White Dog,American Wheat Beer,14,22.71,1.051,1.013,4.94,19.6,3.58,26.5,90,1.043,75.0,2.0,Specific Gravity,All Grain,2.0,2
+Pl33z II,German Pilsner (Pils),81,10.0,1.0390000000000001,1.0090000000000001,3.9,39.48,4.47,12.0,60,1.032,70.0,2.906723776223778,Specific Gravity,BIAB,2.906723776223778,2
+Coconut & Grapefruit PA,American Pale Ale,10,25.0,1.06,1.013,6.14,27.36,5.31,28.5,20,1.053,75.0,3.5,Specific Gravity,All Grain,3.5,2
+Spring Pale Ale 2.0 (Fall 2015),American Pale Ale,10,62.46,1.054,1.011,5.63,37.15,9.53,51.1,90,1.0659999999999998,82.0,1.5,Specific Gravity,All Grain,1.5,2
+SESHIN' KEV,Ordinary Bitter,118,18.93,1.037,1.011,3.44,22.51,8.54,26.5,60,1.0270000000000001,65.0,2.6058383233532934,Specific Gravity,BIAB,2.6058383233532934,2
+Blonde Ale 2016,Cream Ale,45,20.82,1.053,1.014,5.18,42.87,4.71,11.36,60,1.0979999999999999,35.0,1.905721757322176,Specific Gravity,extract,1.905721757322176,2
+Fall freyr,American Pale Ale,10,75.71,1.054,1.013,5.29,80.79,4.15,102.21,60,1.04,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Henchmens smashacre,American IPA,7,20.82,1.079,1.013,8.61,141.58,4.2,28.39,90,1.058,70.0,1.5,Specific Gravity,All Grain,1.5,3
+Super IPA,American IPA,7,20.82,1.0759999999999998,1.026,6.55,142.47,10.95,26.5,75,1.0613623102598386,75.0,2.0243738248981953,Specific Gravity,Partial Mash,2.0243738248981953,2
+Pumpkin wagon special,Holiday/Winter Special Spiced Beer,85,20.82,1.069,1.02,6.47,34.12,13.03,28.39,60,1.048,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Stout,Sweet Stout,162,21.0,1.052,1.013,5.05,31.77,44.01,28.5,60,1.038,60.0,3.0,Specific Gravity,All Grain,3.0,5
+Breakfast Stout,Oatmeal Stout,114,9.46,1.053,1.016,4.91,19.18,24.8,3.79,60,1.1320000000000001,35.0,2.0342862385321103,Specific Gravity,Partial Mash,2.0342862385321103,5
+Pecan Pie Porter,American Porter,11,18.93,1.069,1.015,7.15,35.07,36.75,9.46,60,1.139,35.0,1.8946646706586827,Specific Gravity,extract,1.8946646706586827,5
+Fat Pale Ale (clone?),American Pale Ale,10,18.93,1.057,1.011,6.05,34.91,10.93,24.61,60,1.044,70.0,1.32,Specific Gravity,All Grain,1.32,2
+#006 New England-Style Sour Beer,Experimental Beer,67,17.03,1.068,1.013,7.23,50.39,3.81,11.36,30,1.103,35.0,2.3384,Specific Gravity,Partial Mash,2.3384,2
+Simcoe Extract APA,American Pale Ale,10,20.82,1.063,1.016,6.2,101.48,3.59,11.36,60,1.1159999999999999,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+Honey Jingle 2017,Standard/Ordinary Bitter,157,21.0,1.045,1.008,4.93,23.45,4.07,25.0,60,1.038,68.0,2.4909895054945057,Specific Gravity,BIAB,2.4909895054945057,2
+Forfucksshake 2B1C,American IPA,7,20.82,1.0659999999999998,1.023,5.67,29.74,6.93,28.39,60,1.043,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Chocky liquorice stout No2,Dry Stout,58,25.0,1.053,1.014,5.17,40.2,31.33,35.0,60,1.038,75.0,2.8,Specific Gravity,All Grain,2.8,5
+Awesome Recipe,American Amber Ale,4,20.82,1.054,1.014,5.29,28.72,15.78,24.61,60,1.046,70.0,1.35,Specific Gravity,All Grain,1.35,2
+Razzberry Stout,Sweet Stout,162,18.93,1.073,1.018,7.19,0.0,83.43,18.93,60,1.0718243773216876,75.0,2.0088648111332006,Specific Gravity,Partial Mash,2.0088648111332006,5
+California Pale Ale,American Pale Ale,10,22.71,1.05,1.0090000000000001,5.45,42.39,5.71,28.39,60,1.04,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Brewjack Horseman,Dry Stout,58,3.79,1.082,1.0270000000000001,7.31,45.11,46.73,3.79,60,1.082,70.0,1.5,Specific Gravity,All Grain,1.5,5
+Belgian Golden Strong,Belgian Golden Strong Ale,23,41.64,1.071,1.0170000000000001,7.13,34.88,6.0,51.48,90,1.058,72.0,1.5,Specific Gravity,All Grain,1.5,2
+Fruit-Adjunct IPA,American IPA,7,20.82,1.103,1.024,10.46,73.77,15.27,28.39,60,1.0759999999999998,75.0,2.0243738248981953,Specific Gravity,All Grain,2.0243738248981953,3
+Bariloche,American Amber Ale,4,19.0,12.4444,2.83143,5.14,30.48,14.12,23.0,70,10.4,76.0,3.0,Plato,All Grain,3.0,2
+Red Rye Ale,American Light Lager,9,359.61,1.071,1.018,7.03,24.49,24.09,416.4,60,1.062,68.0,1.5,Specific Gravity,All Grain,1.5,5
+ïngott,Spice  Herb  or Vegetable Beer,155,56.0,1.044,1.0070000000000001,4.83,25.01,5.51,62.0,60,1.04,65.0,2.5,Specific Gravity,All Grain,2.5,2
+Bayer,Munich Dunkel,108,25.0,1.054,1.012,5.57,26.08,17.28,29.0,90,1.047,70.0,3.2,Specific Gravity,All Grain,3.2,2
+05C: German Helles Exportbier,German Helles Exportbier,78,20.82,1.053,1.012,5.27,27.63,6.28,28.39,60,1.0390000000000001,72.0,1.5,Specific Gravity,All Grain,1.5,2
+IPA (Spring 2015),American IPA,7,22.71,1.071,1.018,7.07,68.04,5.39,30.28,75,1.054,70.0,1.2,Specific Gravity,All Grain,1.2,2
+Dead Ringer IPA (3.0),American IPA,7,22.71,1.058,1.01,6.34,81.31,7.91,30.28,60,1.043,73.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+MRT_201707_MILKSTOUT,Sweet Stout,162,17.0,1.065,1.021,5.84,21.16,42.0,21.0,60,1.053,70.0,2.0088648111332006,Specific Gravity,BIAB,2.0088648111332006,5
+Annie's Pilsner,American Light Lager,9,37.85,1.0490000000000002,1.012,4.86,32.15,3.47,45.42,75,1.041,70.0,1.2,Specific Gravity,All Grain,1.2,2
+Nissemor ipa,Imperial IPA,86,27.0,1.08,1.015,8.5,121.82,7.01,32.0,90,1.067,75.0,1.808331280788176,Specific Gravity,BIAB,1.808331280788176,3
+Yes  another red,Flanders Red Ale,71,30.28,1.072,1.021,6.71,26.44,22.51,45.42,90,1.048,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Buck Hork,American Brown Ale,6,20.82,1.054,1.016,5.0,33.93,26.73,9.46,60,1.119,100.0,1.9293349131121658,Specific Gravity,extract,1.9293349131121658,5
+Imperial Zeus,Imperial IPA,86,22.71,1.072,1.018,7.05,0.0,6.01,30.28,60,1.054,66.0,1.808331280788176,Specific Gravity,All Grain,1.808331280788176,2
+NEIPA (Exp 1),English IPA,65,10.0,16.6113,2.97282,7.41,77.44,8.9,13.0,60,12.9,75.0,2.5,Plato,All Grain,2.5,2
+Grodziskie,Piwo Grodziskie,123,18.0,1.048,1.0090000000000001,5.16,0.0,3.98,24.0,60,1.036,70.0,2.4124999999999996,Specific Gravity,BIAB,2.4124999999999996,2
+Tungsinn,Imperial Stout,87,25.0,1.104,1.024,10.47,90.45,50.0,31.0,90,1.084,70.0,1.8478668171557562,Specific Gravity,BIAB,1.8478668171557562,6
+Oatmeal WhirlPool APA - Amarillo,American Pale Ale,10,20.0,1.0490000000000002,1.011,4.98,39.7,3.82,26.5,60,1.037,75.0,2.5,Specific Gravity,All Grain,2.5,2
+Rye,American Light Lager,9,21.0,1.005,1.001,0.52,0.0,1.87,28.5,60,1.004,35.0,2.1850179985601157,Specific Gravity,BIAB,2.1850179985601157,1
+Tart dry-hopped rye ale,Berliner Weisse,27,22.33,1.047,1.012,4.71,0.0,4.17,26.5,30,1.04,72.0,1.25,Specific Gravity,All Grain,1.25,2
+Westy 12,Belgian Dark Strong Ale,21,18.93,1.0959999999999999,1.021,9.72,55.87,41.63,30.28,90,1.06,70.0,1.4,Specific Gravity,All Grain,1.4,6
+Fossane Bryggeri - Tåkelur,American IPA,7,60.0,1.045,1.01,4.52,35.2,4.49,68.0,65,1.0390000000000001,66.0,5.0,Specific Gravity,All Grain,5.0,2
+Rainy Holiday,American IPA,7,21.0,1.074,1.0170000000000001,7.43,114.56,12.42,28.0,90,1.0562995170336649,75.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+White House Honey Ale (Official Recipe),American Amber Ale,4,20.82,1.06,1.0170000000000001,5.63,27.73,8.87,11.36,50,1.0847521876654416,30.0,2.1336110307414087,Specific Gravity,extract,2.1336110307414087,2
+Amarillo PalePA - Big Batch,American IPA,7,90.85,1.061,1.0170000000000001,5.78,67.78,4.78,90.85,90,1.061,80.0,1.5,Specific Gravity,All Grain,1.5,2
+Barley Wine,American Barleywine,5,18.0,1.103,1.0959999999999999,0.86,57.6,15.23,22.0,80,1.084,90.0,3.0,Specific Gravity,All Grain,3.0,1
+Elisabethville aka The Britley Belgians,Belgian Tripel,26,50.0,1.08,1.01,9.12,30.41,6.13,54.0,70,1.074,84.0,3.0,Specific Gravity,All Grain,3.0,3
+Christmas Saison 17,Saison,134,20.0,1.057,1.01,6.13,28.41,16.62,28.0,60,1.041,55.0,2.7,Specific Gravity,All Grain,2.7,2
+Double Simcoe IPA,Double IPA,56,22.71,1.078,1.014,8.39,113.27,5.43,30.28,90,1.053,70.0,1.25,Specific Gravity,All Grain,1.25,3
+Mikklan New England IPA small batch,American IPA,7,15.0,1.056,1.013,5.68,25.17,5.84,20.0,60,1.042,68.0,3.0,Specific Gravity,All Grain,3.0,2
+Marks IPA Light,American IPA,7,19.87,1.03,1.006,3.12,21.22,15.21,28.39,60,1.021,72.0,1.25,Specific Gravity,All Grain,1.25,2
+Grab ALE,American Pale Ale,10,19.0,1.052,1.0090000000000001,5.69,36.12,12.96,28.0,60,1.035,65.0,3.0,Specific Gravity,All Grain,3.0,2
+BLONDE ALE n. 1,Blonde Ale,30,1150.0,1.043,1.01,4.41,16.8,3.81,1400.0,60,1.036,70.0,3.0,Specific Gravity,All Grain,3.0,2
+BW Witbier(pico),Witbier,175,14.0,1.044,1.006,5.06,17.52,3.96,18.6,60,1.033,49.0,4.6,Specific Gravity,All Grain,4.6,2
+Back in Black,Schwarzbier,135,19.87,1.052,1.012,5.27,23.45,37.27,28.39,105,1.037,70.0,1.5,Specific Gravity,All Grain,1.5,5
+Original Sin Belgian Dark Strong with Figs...,Belgian Dark Strong Ale,21,20.0,1.064,1.013,6.74,0.0,19.47,25.0,60,1.051,64.0,4.0,Specific Gravity,All Grain,4.0,2
+Petite Mort Jouir de la vie,Belgian Dark Strong Ale,21,30.28,1.075,1.018,7.38,38.71,14.24,35.2,60,1.064,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Sunset,Blonde Ale,30,65.0,1.044,1.008,4.7,17.33,5.35,73.9,20,1.038,60.0,2.5,Specific Gravity,All Grain,2.5,2
+Single hop IPA,American IPA,7,120.0,1.056,1.011,5.97,58.66,9.36,130.0,60,1.052,75.0,3.0,Specific Gravity,All Grain,3.0,2
+New Hopness,Imperial IPA,86,37.85,1.072,1.0170000000000001,7.22,39.35,10.67,56.78,60,1.048,75.0,1.808331280788176,Specific Gravity,All Grain,1.808331280788176,2
+Ginger Fire Beer,Spice  Herb  or Vegetable Beer,155,20.82,1.033,1.003,3.92,0.0,6.69,11.36,60,1.061,70.0,1.8465355805243444,Specific Gravity,Partial Mash,1.8465355805243444,2
+Julebokk,Doppelbock,54,20.0,1.087,1.02,8.76,22.34,30.97,26.0,90,1.062,75.0,1.5,Specific Gravity,All Grain,1.5,6
+Centennial Summer Wet Hop 14',American Pale Ale,10,37.85,1.056,1.006,6.5,0.0,6.68,37.85,60,1.0641548686522913,75.0,2.2804632561436686,Specific Gravity,All Grain,2.2804632561436686,2
+Tilica's Pilsen,German Pilsner (Pils),81,25.0,1.045,1.0070000000000001,5.05,34.84,3.3,30.0,60,1.038,70.0,3.6,Specific Gravity,All Grain,3.6,2
+Saison Braggot,Braggot,32,18.0,1.099,1.0070000000000001,12.05,45.41,5.98,13.0,60,1.137,35.0,1.9407900000000002,Specific Gravity,extract,1.9407900000000002,3
+RBEL Hopped Brown Ale,British Brown Ale,34,25.0,1.061,1.015,6.09,56.59,16.48,30.0,75,1.051,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Mango Session IPA,English IPA,65,28.39,1.048,1.012,4.64,40.42,6.2,38.12,90,1.036,82.0,1.25,Specific Gravity,All Grain,1.25,2
+RED ALE SMOKED,Classic Style Smoked Beer,42,28.0,1.045,1.0090000000000001,4.79,17.32,15.83,45.0,70,1.028,72.0,3.0,Specific Gravity,All Grain,3.0,2
+Wheatwine,Weizenbock,171,5.0,1.114,1.034,10.51,52.21,12.68,9.0,60,1.064,60.0,3.0,Specific Gravity,All Grain,3.0,3
+ESB,Clone Beer,43,20.82,1.048,1.015,4.32,48.24,10.03,28.39,60,1.035,25.0,1.8485344827586205,Specific Gravity,extract,1.8485344827586205,2
+Classic IPA,American IPA,7,34.07,1.074,1.0170000000000001,7.39,59.26,8.8,38.42,60,1.065,70.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Stone Hill Pale Ale Clone #2,American Pale Ale,10,19.87,1.062,1.014,6.36,45.67,13.55,13.25,60,1.093,85.0,2.2804632561436686,Specific Gravity,Partial Mash,2.2804632561436686,2
+Oakhouse,Wood-Aged Beer,176,18.93,1.052,1.0090000000000001,5.64,34.52,12.58,22.56,60,1.043,75.0,1.35,Specific Gravity,All Grain,1.35,2
+Amercan Wheat Ale simple,American Wheat Beer,14,20.82,1.0590000000000002,1.015,5.85,17.44,4.79,11.36,60,1.109,35.0,1.9064315245478038,Specific Gravity,extract,1.9064315245478038,2
+William is bitter,Special/Best/Premium Bitter,144,23.09,1.043,1.014,3.83,21.62,9.81,28.39,60,1.035,80.0,1.2,Specific Gravity,All Grain,1.2,2
+English Pale Ale,Special/Best/Premium Bitter,144,18.0,1.057,1.01,6.27,56.1,6.58,25.0,60,1.041,65.0,3.0,Specific Gravity,All Grain,3.0,2
+Odell Double Pilsner Clone,German Pils,80,41.64,1.078,1.023,7.27,41.63,4.39,49.21,90,1.0659999999999998,72.0,1.33,Specific Gravity,All Grain,1.33,2
+Citra Saison,Saison,134,20.82,1.0659999999999998,1.018,6.28,15.46,5.04,11.36,90,1.121,70.0,1.5,Specific Gravity,All Grain,1.5,2
+# 7 Paradox Jura,Imperial Stout,87,46.0,1.1059999999999999,1.018,11.56,65.88,50.0,58.0,60,1.084,60.0,1.7,Specific Gravity,All Grain,1.7,6
+English Brown Ale,Northern English Brown,113,21.0,1.0490000000000002,1.011,4.91,25.88,19.37,26.0,60,1.0390000000000001,70.0,3.2,Specific Gravity,All Grain,3.2,2
+Sam Smith Oatmeal Stout,Oatmeal Stout,114,18.93,1.052,1.014,5.01,46.78,32.71,26.5,60,1.037,75.0,2.0342862385321103,Specific Gravity,BIAB,2.0342862385321103,5
+Doberman IPA,American IPA,7,22.71,1.093,1.02,9.61,137.11,10.45,31.23,90,1.067,80.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,3
+Octoberfest (Whitney),Oktoberfest/Märzen,115,22.71,1.047,1.016,4.1,36.53,10.32,28.39,60,1.038,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Cream ale,Cream Ale,45,22.71,1.054,1.012,5.44,19.42,2.97,30.28,60,1.04,75.0,1.905721757322176,Specific Gravity,BIAB,1.905721757322176,2
+Citra APA,American Pale Ale,10,3.79,1.048,1.0090000000000001,5.09,44.72,5.42,8.71,60,1.021,55.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+A pale ale,American Pale Ale,10,20.82,1.053,1.016,4.75,40.43,9.24,28.39,90,1.0390000000000001,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Ginger summer ale,Spice  Herb  or Vegetable Beer,155,22.0,1.044,1.008,4.7,38.24,4.53,28.5,60,1.034,70.0,2.7,Specific Gravity,All Grain,2.7,2
+Strawberry cider,Fruit Beer,75,6.0,1.052,1.011,5.46,0.0,0.0,6.0,60,1.052,60.0,1.9556797153024905,Specific Gravity,extract,1.9556797153024905,2
+Lucky dip Bière de Garde (wy3725),Bière de Garde,29,11.0,1.0659999999999998,1.015,6.66,18.55,6.17,13.0,60,1.056,70.0,5.0,Specific Gravity,All Grain,5.0,2
+Helcar Pale Alt,Altbier,1,20.82,1.052,1.012,5.29,37.25,4.3,28.39,60,1.038,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Diamond Chocolate Coffee Porter,Robust Porter,129,18.93,1.075,1.0190000000000001,7.43,84.85,36.04,26.5,60,1.054,70.0,1.1,Specific Gravity,All Grain,1.1,5
+Triple Trouble,Belgian Tripel,26,25.0,1.088,1.016,9.46,26.35,4.03,29.0,90,1.0759999999999998,76.0,2.7,Specific Gravity,All Grain,2.7,3
+SafalesMix Blonde Ale,Blonde Ale,30,18.0,1.0390000000000001,1.01,3.77,23.28,6.58,23.0,60,1.03,45.0,3.0,Specific Gravity,All Grain,3.0,2
+Pumpkin Milk Stout,Fruit Beer,75,22.71,1.06,1.022,4.99,27.95,37.67,27.44,60,1.05,75.0,1.5,Specific Gravity,All Grain,1.5,5
+Bright Gose,Gose,82,230.0,1.052,1.0090000000000001,5.55,11.28,3.36,250.0,60,1.048,76.0,4.0,Specific Gravity,All Grain,4.0,2
+SchuBrew Bretty the Brett Brett,Brett Beer,33,20.82,1.0490000000000002,1.006,5.61,34.09,4.22,28.39,60,1.036,70.0,1.7995238095238095,Specific Gravity,BIAB,1.7995238095238095,2
+Baltic Porter,Baltic Porter,19,22.71,1.0859999999999999,1.0190000000000001,8.78,50.68,32.63,28.39,75,1.069,70.0,1.5,Specific Gravity,All Grain,1.5,6
+Black imperial IPA,Imperial IPA,86,13.25,1.09,1.021,9.09,144.64,33.89,22.71,75,1.052,75.0,1.25,Specific Gravity,All Grain,1.25,6
+Supernova Weissbier,Weissbier,169,20.82,1.051,1.012,5.16,57.01,4.78,15.14,60,1.071,35.0,2.677646655231561,Specific Gravity,Partial Mash,2.677646655231561,2
+Dark Rice Ale,Belgian Dark Strong Ale,21,17.03,1.056,1.011,5.98,20.45,12.0,11.36,60,1.084,35.0,1.964594594594595,Specific Gravity,extract,1.964594594594595,2
+Dragon's Milk October Beer,American Barleywine,5,18.93,1.09,1.012,10.35,86.41,8.55,22.71,90,1.075,70.0,1.5,Specific Gravity,All Grain,1.5,3
+Nelsons Tropical Infusion,American Pale Ale,10,25.0,1.0490000000000002,1.008,5.34,30.59,5.17,31.0,60,1.04,84.0,5.0,Specific Gravity,All Grain,5.0,2
+Biab cascade Jun17,American IPA,7,11.0,1.056,1.012,5.75,40.9,9.25,11.0,60,1.056,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Sierra Madre Pale Ale,Extra Special/Strong Bitter (ESB),68,20.82,1.051,1.01,5.39,37.96,7.69,11.36,55,1.093,35.0,2.1674527777777786,Specific Gravity,extract,2.1674527777777786,2
+Dead RInger,American IPA,7,19.87,1.072,1.014,7.65,53.04,9.38,11.36,60,1.126,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Russian Imperial Stout,Imperial Stout,87,19.87,1.122,1.024,14.69,90.63,50.0,24.98,75,1.097,70.0,1.8478668171557562,Specific Gravity,Partial Mash,1.8478668171557562,6
+California Pale Ale - v0.0,American Pale Ale,10,24.61,1.065,1.015,6.46,41.42,6.72,28.39,60,1.056,69.0,1.25,Specific Gravity,All Grain,1.25,2
+Liberty Cream Ale,American Light Lager,9,18.93,1.055,1.012,5.59,34.41,3.36,28.39,60,1.037,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Single Hop Amarillo Barleywine,American Barleywine,5,20.82,1.1,1.024,10.08,84.41,13.36,28.39,65,1.074,50.0,1.5,Specific Gravity,All Grain,1.5,3
+Brown Dog India Pale Ale,English IPA,65,19.87,1.056,1.0170000000000001,5.12,54.58,14.52,26.5,60,1.042,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Red Chair Clone - 10 gal,American IPA,7,39.75,1.067,1.014,7.03,69.3,11.81,45.42,60,1.0590000000000002,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Burtie,English IPA,65,20.82,1.065,1.0170000000000001,6.35,56.85,6.79,24.61,40,1.055,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Pony Porter (PP2),Robust Porter,129,8.06,1.054,1.01,5.72,37.75,34.66,8.04,45,1.054,35.0,1.9681428571428576,Specific Gravity,extract,1.9681428571428576,5
+Sex. Murder. Hops. Lager.,American IPA,7,18.9,1.053,1.014,5.16,60.97,4.71,23.1,60,1.043,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Green Creek Hazy IPA,American IPA,7,20.82,1.062,1.0170000000000001,5.95,39.16,11.07,23.85,60,1.054,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+IPA2,American IPA,7,20.82,1.061,1.014,6.19,75.67,7.68,13.25,60,1.0959999999999999,50.0,2.0243738248981953,Specific Gravity,Partial Mash,2.0243738248981953,2
+Rye IPA,American IPA,7,20.82,1.061,1.013,6.41,86.6,9.8,28.39,60,1.045,60.0,2.0243738248981953,Specific Gravity,All Grain,2.0243738248981953,2
+How Rye I Am (Rye Saison),Saison,134,19.87,1.0590000000000002,1.008,6.65,33.19,5.32,28.39,90,1.037,72.0,2.0,Specific Gravity,All Grain,2.0,2
+Big Stout Recipe,Imperial Stout,87,21.77,1.13,1.046,13.02,56.8,50.0,37.85,240,1.075,65.0,1.5,Specific Gravity,All Grain,1.5,6
+Eggnog Stout,Sweet Stout,162,37.85,1.082,1.0270000000000001,7.23,54.96,40.69,30.28,60,1.102,35.0,2.0088648111332006,Specific Gravity,Partial Mash,2.0088648111332006,5
+Club NEIPA SMaSH Cascade,American IPA,7,20.82,1.061,1.014,6.15,33.23,3.64,25.36,60,1.05,73.0,2.0243738248981953,Specific Gravity,All Grain,2.0243738248981953,2
+27D: London Brown Ale,London Brown Ale,101,20.82,1.036,1.011,3.36,14.98,27.92,28.39,60,1.0270000000000001,72.0,1.5,Specific Gravity,All Grain,1.5,5
+Solvay IPA 2.0,American IPA,7,18.93,1.061,1.012,6.5,85.87,9.3,11.36,60,1.102,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Classic Vienna,Vienna Lager,167,20.82,1.052,1.015,4.9,25.36,6.21,26.5,60,1.041,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Russian imperial stout1,Imperial Stout,87,20.0,1.083,1.023,7.89,94.94,47.65,26.5,60,1.063,70.0,2.7,Specific Gravity,All Grain,2.7,5
+Baltisk Porter,Baltic Porter,19,50.0,1.061,1.01,6.77,28.1,30.07,60.0,60,1.051,70.0,3.0,Specific Gravity,All Grain,3.0,5
+Raging Monk Boysenberry-Wheat Ale (RMB),American Wheat Beer,14,20.82,1.073,1.016,7.48,17.15,5.39,28.39,60,1.054,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Ryan's Roggenbier,Roggenbier (German Rye Beer),131,18.93,1.055,1.0170000000000001,5.06,19.21,17.52,24.61,60,1.042,70.0,1.835357142857143,Specific Gravity,BIAB,1.835357142857143,2
+Mimic,Standard/Ordinary Bitter,157,37.85,1.0659999999999998,1.0170000000000001,6.33,42.56,22.18,35.96,60,1.069,80.0,1.5,Specific Gravity,All Grain,1.5,2
+Simple Smash,American IPA,7,12.0,1.065,1.013,6.81,55.29,6.8,16.0,60,1.0490000000000002,70.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+German wheat beer,Weissbier,169,80.0,1.047,1.0070000000000001,5.3,19.86,3.89,85.0,60,1.044,35.0,2.677646655231561,Specific Gravity,extract,2.677646655231561,2
+NB Black IPA Kit,Specialty IPA: Black IPA,148,18.93,1.077,1.014,8.27,109.18,29.68,22.71,60,1.064,72.0,1.5,Specific Gravity,All Grain,1.5,6
+2 Hearted Clone,American IPA,7,37.85,1.063,1.013,6.5,54.83,6.96,43.91,60,1.054,65.0,1.33,Specific Gravity,All Grain,1.33,2
+Paledawg2,American Pale Ale,10,23.0,1.047,1.012,4.58,13.19,3.61,6.0,60,1.178,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+My Little Dreidel,American Brown Ale,6,20.82,1.055,1.016,5.09,25.85,20.18,28.39,60,1.041,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Bitterbirran,Standard/Ordinary Bitter,157,11.5,1.064,1.016,6.32,46.41,14.34,16.0,60,1.046,75.0,2.4909895054945057,Specific Gravity,BIAB,2.4909895054945057,2
+City of the Sun,American IPA,7,23.0,1.057,1.01,6.16,60.94,4.47,34.4,60,1.038,72.0,2.8,Specific Gravity,All Grain,2.8,2
+Golden Promise/Columbus SMaSH,American IPA,7,20.82,1.065,1.015,6.54,42.79,5.41,28.39,70,1.047,80.0,1.33,Specific Gravity,All Grain,1.33,2
+Mango Gose,Gose,82,9.46,1.047,1.012,4.61,0.0,4.19,12.76,60,1.035,70.0,1.45,Specific Gravity,All Grain,1.45,2
+Maibock,Maibock/Helles Bock,103,20.82,1.061,1.014,6.06,21.83,10.09,27.44,60,1.046,75.0,1.0,Specific Gravity,All Grain,1.0,2
+Weiss,Weissbier,169,4.5,11.827,1.83477,5.31,11.7,4.73,5.0,60,10.7,70.0,3.5,Plato,All Grain,3.5,2
+Oaked and Smoked,Belgian Specialty Ale,25,20.82,1.0759999999999998,1.0190000000000001,7.47,42.61,33.22,26.5,60,1.061168282187357,70.0,1.9328048780487803,Specific Gravity,All Grain,1.9328048780487803,5
+IPA Dean Oh Style,American IPA,7,20.82,1.062,1.011,6.67,65.75,10.37,28.39,60,1.045,75.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Amarillo,American Pale Ale,10,10.0,1.048,1.01,4.86,47.87,6.04,13.0,60,1.037,70.0,3.0,Specific Gravity,All Grain,3.0,2
+NZ Pale (Eli),American Pale Ale,10,7.5,1.048,1.0090000000000001,5.12,44.45,5.09,7.5,60,1.048,78.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+Oatmeal Coffee Breakfast Stout,American Stout,12,19.87,1.071,1.018,6.95,55.49,39.62,26.5,60,1.053,65.0,1.5,Specific Gravity,All Grain,1.5,5
+Summer session,American Pale Ale,10,24.61,1.053,1.01,5.59,43.32,5.39,26.5,60,1.0490000000000002,75.0,1.3,Specific Gravity,All Grain,1.3,2
+SA Old Fezziwig Clone,American Brown Ale,6,20.82,1.055,1.012,5.64,23.65,31.66,15.14,60,1.044,75.0,1.9293349131121658,Specific Gravity,Partial Mash,1.9293349131121658,5
+Smash,Witbier,175,15.14,1.052,1.01,5.59,57.52,9.56,18.93,60,1.042,55.0,2.2309730831973895,Specific Gravity,BIAB,2.2309730831973895,2
+Dawnbreaker IPA,English IPA,65,20.82,1.0659999999999998,1.016,6.57,47.21,10.52,28.39,60,1.048,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Grapefruit Pulpin,American IPA,7,19.87,1.063,1.014,6.36,50.66,5.95,30.28,90,1.041,65.0,1.5,Specific Gravity,All Grain,1.5,2
+Red IPA,Specialty IPA: Red IPA,150,5.0,1.0590000000000002,1.012,6.12,66.67,15.71,8.0,60,1.037,75.0,2.0217797202797207,Specific Gravity,BIAB,2.0217797202797207,2
+Speckled Cow Cream Ale (Spotted Cow Clone)...,Cream Ale,45,21.2,1.051,1.013,5.04,12.04,4.78,30.28,60,1.036,60.0,1.905721757322176,Specific Gravity,All Grain,1.905721757322176,2
+Dust,American IPA,7,22.7,1.057,1.015,5.55,65.25,7.42,26.5,60,1.0490000000000002,70.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Konrads LakrisPorter,Robust Porter,129,23.0,1.05,1.012,5.02,32.93,33.71,27.0,60,1.043,71.0,3.0,Specific Gravity,All Grain,3.0,5
+IPA VI,American IPA,7,25.0,1.0490000000000002,1.0090000000000001,5.17,86.25,9.17,32.0,60,1.038,58.0,3.0,Specific Gravity,All Grain,3.0,2
+14.2.16 IPA,American Light Lager,9,23.0,1.0590000000000002,1.011,6.27,62.19,4.09,16.0,50,1.085,35.0,2.1850179985601157,Specific Gravity,extract,2.1850179985601157,2
+Dopplebock,Doppelbock,54,60.57,1.092,1.026,8.63,26.86,15.98,70.03,90,1.079,70.0,1.5,Specific Gravity,All Grain,1.5,3
+BryllupsAPA,California Common Beer,39,55.0,1.05,1.011,5.14,34.05,10.98,34.0,60,1.081,70.0,2.4,Specific Gravity,All Grain,2.4,2
+Fleaflicker 2017,International Amber Lager,88,20.82,1.055,1.014,5.51,21.82,7.99,22.71,60,1.05,75.0,2.212727272727273,Specific Gravity,BIAB,2.212727272727273,2
+Brulosophy IPA (w/ 1056),American IPA,7,30.28,1.065,1.016,6.51,69.1,5.04,34.07,90,1.058,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Grenadier,Old Ale,116,20.82,1.08,1.021,7.86,44.84,10.83,26.5,60,1.063,70.0,1.1,Specific Gravity,All Grain,1.1,2
+Jack-O-Claus,Holiday/Winter Special Spiced Beer,85,18.93,1.109,1.026,10.88,31.41,37.75,11.36,60,1.182,70.0,2.509152317880795,Specific Gravity,Partial Mash,2.509152317880795,6
+15C: Irish Extra Stout,Irish Extra Stout,91,20.82,1.058,1.013,5.97,47.22,34.27,28.39,60,1.043,72.0,1.5,Specific Gravity,All Grain,1.5,5
+Blond Affligem Clone,Belgian Blond Ale,20,23.0,1.061,1.014,6.12,23.32,4.72,27.0,90,1.052,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Skeeters's Imperial IPA,Imperial IPA,86,20.82,1.062,1.012,6.48,77.67,11.9,11.36,60,1.113,45.0,1.808331280788176,Specific Gravity,Partial Mash,1.808331280788176,2
+No. 07 - Czech Pilsener,Czech Pale Lager,49,20.0,1.0490000000000002,1.012,4.81,50.05,3.46,27.0,60,1.036,70.0,2.59688679245283,Specific Gravity,BIAB,2.59688679245283,2
+Light. IPA,English IPA,65,18.93,1.042,1.01,4.26,40.38,9.23,26.5,60,1.03,70.0,2.4856328293736496,Specific Gravity,BIAB,2.4856328293736496,2
+STIPA,American IPA,7,23.0,1.069,1.012,7.56,79.98,7.33,32.0,60,1.05,70.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Belgian Tripel,Belgian Tripel,26,45.42,1.083,1.011,9.52,44.85,4.61,54.89,60,1.069,80.0,1.2,Specific Gravity,All Grain,1.2,3
+Leftovers IPA,American IPA,7,20.82,1.061,1.014,6.15,57.56,6.5,22.71,60,1.055,70.0,2.0243738248981953,Specific Gravity,Partial Mash,2.0243738248981953,2
+Two Hearted with Comet  Cascade  and Centenn...,American IPA,7,20.82,1.063,1.014,6.55,72.44,6.64,24.61,75,1.054,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Pat Beer,American IPA,7,18.93,1.0490000000000002,1.0090000000000001,5.25,67.03,7.56,11.36,60,1.082,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+NEIPA,American IPA,7,23.0,1.057,1.016,5.51,35.41,5.16,29.0,90,1.046,70.0,2.0243738248981953,Specific Gravity,All Grain,2.0243738248981953,2
+Mead - 161007,Other Fruit Melomel,119,20.82,1.107,1.0270000000000001,10.5,0.0,3.24,22.71,60,1.0979999999999999,35.0,1.5,Specific Gravity,All Grain,1.5,3
+Without,Witbier,175,8.0,1.04,1.011,3.82,17.98,3.42,11.0,60,1.0290000000000001,35.0,2.2309730831973895,Specific Gravity,extract,2.2309730831973895,2
+Bully Beer,California Common Beer,39,12.87,1.055,1.0090000000000001,6.04,17.84,11.3,18.93,60,1.038,70.0,2.0911964601769917,Specific Gravity,BIAB,2.0911964601769917,2
+Peter s IPA,American IPA,7,23.0,1.069,1.015,7.1,67.61,25.34,28.0,60,1.057,75.0,2.7,Specific Gravity,All Grain,2.7,5
+Cinnamon Bun Stout,Sweet Stout,162,24.61,1.082,1.025,7.52,14.87,47.04,28.39,60,1.071,74.0,1.4,Specific Gravity,All Grain,1.4,5
+SWMBO,Sweet Stout,162,20.82,1.067,1.0270000000000001,5.18,25.0,41.93,26.5,60,1.052,75.0,1.25,Specific Gravity,All Grain,1.25,5
+Tall  Dark  and Handsome,American Stout,12,18.93,1.063,1.0170000000000001,6.06,35.76,35.89,11.36,60,1.1059999999999999,53.0,1.8763916786226682,Specific Gravity,Partial Mash,1.8763916786226682,5
+Westminsters world of back benchers 070417...,American Light Lager,9,26.0,1.058,1.014,5.71,33.91,6.64,28.5,60,1.053,61.0,3.0,Specific Gravity,All Grain,3.0,2
+Ginger-Beet Saison,Saison,134,21.77,1.051,1.013,5.06,22.32,5.93,29.34,75,1.038,73.0,1.5,Specific Gravity,All Grain,1.5,2
+Ordinary Bitter - COLLEY,Ordinary Bitter,118,130.0,1.034,1.01,3.26,25.93,5.4,142.02,60,1.031,71.0,2.6058383233532934,Specific Gravity,All Grain,2.6058383233532934,2
+Oatmeal Stout,Oatmeal Stout,114,20.82,1.067,1.018,6.41,41.4,36.55,26.5,60,1.053,77.0,1.25,Specific Gravity,All Grain,1.25,5
+Classic Saison,Saison,134,27.0,1.051,1.011,5.35,25.09,9.07,27.5,60,1.051,70.0,2.5,Specific Gravity,All Grain,2.5,2
+"Victory Bier ""Duvel""",Belgian Golden Strong Ale,23,22.71,1.078,1.018,7.87,46.62,3.38,24.61,60,1.072,75.0,1.5,Specific Gravity,All Grain,1.5,2
+The Yello Dello,Imperial IPA,86,22.71,1.089,1.021,8.89,112.72,9.31,30.28,60,1.0680771980603243,75.0,1.808331280788176,Specific Gravity,All Grain,1.808331280788176,3
+Ye' old Barleywine,English Barleywine,63,20.82,1.092,1.02,9.39,65.37,14.26,26.5,60,1.072,75.0,1.11,Specific Gravity,All Grain,1.11,3
+Nenna IPA Argentina,American IPA,7,18.0,1.058,1.012,6.1,59.67,6.98,25.0,60,1.042,70.0,3.5,Specific Gravity,All Grain,3.5,2
+Schwarzbeer,Schwarzbier,135,18.93,1.05,1.011,5.07,31.16,28.58,22.71,60,1.042,70.0,1.5,Specific Gravity,All Grain,1.5,5
+Spice Winter Ale,Scottish Export,136,20.82,1.042,1.011,4.16,18.15,9.77,15.14,60,1.058,35.0,1.9665546218487395,Specific Gravity,extract,1.9665546218487395,2
+Peach Blonde Ale,Blonde Ale,30,37.85,1.048,1.0090000000000001,5.04,12.56,3.7,41.64,60,1.043,70.0,2.2130735220729356,Specific Gravity,BIAB,2.2130735220729356,2
+"Jokers 8 ""A Queef of Hops""",American IPA,7,41.64,1.0659999999999998,1.015,6.7,66.94,4.38,48.26,60,1.057,70.0,1.15,Specific Gravity,All Grain,1.15,2
+The Accoutrement,American Amber Ale,4,20.82,1.07,1.0170000000000001,6.99,58.37,15.19,28.39,60,1.051,71.0,2.1336110307414087,Specific Gravity,BIAB,2.1336110307414087,2
+Naughty Neighbor,American Pale Ale,10,22.71,1.053,1.011,5.57,52.48,7.45,18.93,60,1.064,73.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+Albino Squid Assassin Clone,Specialty IPA: Rye IPA,151,17.35,1.071,1.012,7.79,91.53,22.15,29.12,90,1.042,65.0,1.9418509615384616,Specific Gravity,BIAB,1.9418509615384616,2
+Feed It Too Her,American IPA,7,20.82,1.1,1.025,9.87,97.59,6.82,18.93,30,1.102,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,3
+Weissbier,Weizen/Weissbier,170,7.57,1.052,1.012,5.24,12.01,3.81,8.52,60,1.047,70.0,2.247236286919832,Specific Gravity,BIAB,2.247236286919832,2
+Moose drool,American Brown Ale,6,20.82,1.053,1.016,4.79,39.3,21.13,24.61,60,1.045,65.0,1.3,Specific Gravity,All Grain,1.3,2
+Fat Man Stout Porter,English Porter,66,18.93,1.047,1.01,4.8,34.63,28.39,26.5,60,1.033,60.0,1.5,Specific Gravity,All Grain,1.5,5
+Sour Ale - Deja Neu Summer,Fruit Lambic,77,20.82,1.058,1.0090000000000001,6.42,9.19,4.32,22.71,60,1.053,70.0,1.790961538461539,Specific Gravity,BIAB,1.790961538461539,2
+Pirate Porter,Baltic Porter,19,18.93,1.0859999999999999,1.0290000000000001,7.53,49.51,40.0,28.39,60,1.057,70.0,1.5,Specific Gravity,All Grain,1.5,5
+Sip of Sunshine Clone,American IPA,7,20.82,1.074,1.015,7.62,160.82,6.12,24.61,60,1.062,75.0,1.25,Specific Gravity,All Grain,1.25,2
+Hurricane Kölsch,Kölsch,94,39.75,1.056,1.013,5.66,17.44,5.43,28.39,60,1.079,80.0,1.25,Specific Gravity,All Grain,1.25,2
+Zabardast,Witbier,175,18.0,1.04,1.012,3.72,11.13,3.47,19.5,90,1.037,55.0,3.0,Specific Gravity,All Grain,3.0,2
+Grandma's Secret Stash,Oatmeal Stout,114,18.93,1.058,1.015,5.68,37.4,36.91,24.61,60,1.045,65.0,1.25,Specific Gravity,All Grain,1.25,5
+Two Hearted Ale Replica,American IPA,7,9.46,1.057,1.014,5.66,55.69,5.71,5.68,60,1.0959999999999999,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Cool Watermelon,Witbier,175,3.7,1.061,1.018,5.7,13.23,5.88,9.7,80,1.023,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Purple Lamborghini,Gose,82,20.82,1.05,1.011,5.11,15.02,3.59,26.5,90,1.04,67.0,1.5,Specific Gravity,All Grain,1.5,2
+Costings for 400ltr batch,Australian Sparkling Ale,17,400.0,1.0490000000000002,1.012,4.86,33.25,5.37,430.0,60,1.046,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Bakke Brygg Doppelbock 50 L,Doppelbock,54,50.0,1.085,1.014,9.33,21.58,17.73,53.0,90,1.08,75.0,1.9101736111111107,Specific Gravity,All Grain,1.9101736111111107,3
+RED IPA,English IPA,65,25.0,1.056,1.015,5.36,44.63,10.41,28.5,60,1.0490000000000002,65.0,3.0,Specific Gravity,All Grain,3.0,2
+Saison QC,Saison,134,23.0,1.0590000000000002,1.008,6.74,27.3,4.0,25.0,60,1.054,72.0,2.4,Specific Gravity,All Grain,2.4,2
+Victory Pale,American Pale Ale,10,43.53,1.056,1.0090000000000001,6.1,37.43,6.55,53.0,60,1.046,70.0,1.3,Specific Gravity,All Grain,1.3,2
+Brewer's Best Whiskey Barrel Stout,American Stout,12,18.93,1.0590000000000002,1.0170000000000001,5.57,39.73,40.0,22.71,60,1.0490000000000002,35.0,1.8763916786226682,Specific Gravity,extract,1.8763916786226682,5
+Porter,American Stout,12,50.0,1.058,1.013,5.9,43.7,35.74,55.0,60,1.053,70.0,3.1,Specific Gravity,All Grain,3.1,5
+Tortilla Chip,Spice  Herb  or Vegetable Beer,155,41.64,1.051,1.012,5.17,13.89,3.62,49.21,60,1.043,65.0,1.5,Specific Gravity,All Grain,1.5,2
+BSB - Block Party IPA,American IPA,7,18.93,1.064,1.016,6.3,56.31,5.85,26.5,60,1.046,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+American IPA,American IPA,7,18.93,1.07,1.0170000000000001,7.08,64.02,8.17,9.46,60,1.141,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+Spiced Winter Ale,Scottish Light 60/-,141,18.93,1.046,1.011,4.51,20.4,12.67,11.36,60,1.0759999999999998,25.0,2.1925,Specific Gravity,extract,2.1925,2
+Tripel,Belgian Tripel,26,1250.0,1.082,1.011,9.33,39.9,4.83,1390.0,90,1.074,65.0,2.0,Specific Gravity,All Grain,2.0,3
+Oktoberfest,Oktoberfest/Märzen,115,41.64,1.055,1.015,5.17,25.18,10.3,53.0,60,1.043,75.0,1.56,Specific Gravity,All Grain,1.56,2
+Spare Parts Ale,American Pale Ale,10,18.93,1.042,1.0070000000000001,4.62,37.25,2.99,24.61,60,1.032,80.0,1.5,Specific Gravity,All Grain,1.5,2
+Freshers Fair IPA,American IPA,7,20.0,1.055,1.013,5.51,56.46,5.59,25.0,60,1.044,65.0,2.0243738248981953,Specific Gravity,BIAB,2.0243738248981953,2
+Leftover wheat,Belgian Specialty Ale,25,3.79,1.056,1.0070000000000001,6.41,41.29,4.86,6.62,60,1.032,70.0,1.5,Specific Gravity,All Grain,1.5,2
+APA keg split #2,American Pale Ale,10,22.0,1.054,1.013,5.39,21.63,9.64,26.0,60,1.046,75.0,2.2804632561436686,Specific Gravity,All Grain,2.2804632561436686,2
+Vanilla Coffee Porter,Robust Porter,129,18.93,1.056,1.014,5.53,37.08,29.34,21.77,60,1.048,65.0,1.25,Specific Gravity,All Grain,1.25,5
+Brew #5 IPA w/ warrior  simcoe  citra  amari...,American IPA,7,20.82,1.064,1.015,6.43,55.85,7.99,28.39,60,1.047,65.0,1.5,Specific Gravity,All Grain,1.5,2
+Dry stout,Dry Stout,58,20.0,1.048,1.01,5.09,43.19,32.09,25.0,60,1.0390000000000001,65.0,3.0,Specific Gravity,All Grain,3.0,5
+Traquair Clone,Strong Scotch Ale,160,41.64,1.077,1.021,7.34,43.39,15.62,54.51,120,1.0590000000000002,73.0,1.5,Specific Gravity,All Grain,1.5,2
+Far out stout,Sweet Stout,162,19.87,1.056,1.011,5.95,30.77,44.33,26.5,90,1.04,75.0,2.0088648111332006,Specific Gravity,BIAB,2.0088648111332006,5
+Palilalia IPA,American IPA,7,20.82,1.056,1.016,5.25,58.0,11.7,28.39,90,1.041,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Isa3,American Light Lager,9,18.93,1.038,1.0070000000000001,4.09,59.71,4.62,11.36,50,1.064,35.0,2.1850179985601157,Specific Gravity,extract,2.1850179985601157,2
+Avans Gjerdet,International Pale Lager,90,21.0,1.047,1.011,4.79,27.68,4.87,28.5,60,1.035,35.0,3.0,Specific Gravity,All Grain,3.0,2
+Experimental Pale Ale,American Pale Ale,10,20.82,1.06,1.014,6.04,44.97,6.85,22.71,60,1.055,75.0,2.2804632561436686,Specific Gravity,BIAB,2.2804632561436686,2
+Covfefe Coffee Blonde Ale,Blonde Ale,30,18.93,1.048,1.01,5.05,30.32,4.28,9.46,60,1.063,50.0,2.2130735220729356,Specific Gravity,Partial Mash,2.2130735220729356,2
+English IPA 2017-1,English IPA,65,41.64,1.0590000000000002,1.012,6.09,62.86,6.38,53.0,60,1.046,70.0,1.3,Specific Gravity,All Grain,1.3,2
+Dip of Crazy - DIPA,Imperial IPA,86,22.71,1.08,1.014,8.68,93.02,5.88,32.55,60,1.056,70.0,1.5,Specific Gravity,All Grain,1.5,3
+Grapefruit Pulpin,American IPA,7,20.82,1.0659999999999998,1.013,7.01,46.99,10.13,24.61,60,1.056,35.0,2.0243738248981953,Specific Gravity,extract,2.0243738248981953,2
+NE style IPA v3,American IPA,7,20.82,1.064,1.016,6.26,32.98,4.24,28.39,90,1.047,70.0,1.5,Specific Gravity,All Grain,1.5,2
+Citra pale ale,American Pale Ale,10,15.52,1.053,1.013,5.18,67.93,6.17,11.36,60,1.072,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+Toddy Porter,Robust Porter,129,41.64,1.06,1.015,5.96,48.63,27.84,51.1,90,1.0490000000000002,80.0,1.25,Specific Gravity,All Grain,1.25,5
+Awesome Recipe,American Light Lager,9,12.0,1.087,1.0190000000000001,8.94,79.92,19.39,17.0,60,1.062,66.0,2.7,Specific Gravity,All Grain,2.7,3
+"You Little ""RIPA""",Specialty IPA: Rye IPA,151,75.0,1.056,1.0090000000000001,6.09,74.0,12.12,84.0,70,1.05,80.0,3.0,Specific Gravity,All Grain,3.0,2
+Bakke Brygg Best Bitter 50 l,Special/Best/Premium Bitter,144,50.0,1.046,1.011,4.51,33.75,8.99,53.0,60,1.043,73.0,2.5249065957446795,Specific Gravity,All Grain,2.5249065957446795,2
+Pat's session IPA,American Pale Ale,10,20.82,1.046,1.01,4.66,75.49,7.86,28.39,60,1.033,70.0,1.5,Specific Gravity,All Grain,1.5,2
+The Golden Calf,Blonde Ale,30,19.87,1.045,1.014,4.03,21.78,3.7,25.55,75,1.035,75.0,1.25,Specific Gravity,All Grain,1.25,2
+Pale Ale Jan 2018,American Pale Ale,10,20.82,1.047,1.0090000000000001,4.99,56.59,6.31,11.36,60,1.0859999999999999,35.0,2.2804632561436686,Specific Gravity,extract,2.2804632561436686,2
+Roquefort 12 - 100% Brett Lambicus Belgian D...,American Light Lager,9,50.0,1.081,1.011,9.16,0.0,17.03,56.0,60,1.072,75.0,2.5,Specific Gravity,All Grain,2.5,3
+It Puts the Mango On Its Skin...,Double IPA,56,45.42,1.08,1.016,8.4,76.35,8.02,53.0,60,1.068,80.0,1.5,Specific Gravity,All Grain,1.5,3
+Sannatta - Milk Stout.,American Stout,12,17.03,1.092,1.034,7.61,28.41,50.0,17.03,60,1.092,70.0,1.8763916786226682,Specific Gravity,BIAB,1.8763916786226682,5
+apra?arab?,English Barleywine,63,11.0,1.091,1.023,8.95,67.42,9.95,14.0,60,1.071,75.0,3.1,Specific Gravity,All Grain,3.1,3
+Lamby (GFunk),Fruit Lambic,77,20.82,1.051,1.012,5.09,10.07,3.84,29.34,60,1.036,75.0,1.5,Specific Gravity,All Grain,1.5,2
+Andreass BursdagsIPA,American Light Lager,9,25.0,1.069,1.013,7.36,105.4,6.02,30.0,60,1.058,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Johannes #15,Specialty Beer,145,25.0,1.048,1.0090000000000001,5.11,17.73,3.61,32.0,60,1.038,70.0,6.0,Specific Gravity,All Grain,6.0,2
+9.9 Barrel Apocalypse Clone,American IPA,7,18.93,1.07,1.012,7.66,81.38,13.37,24.61,75,1.054,70.0,1.3,Specific Gravity,All Grain,1.3,2
+Golden ale,Blonde Ale,30,17.0,1.05,1.01,5.37,26.09,4.51,26.0,60,1.033,70.0,4.0,Specific Gravity,All Grain,4.0,2
+DAM good Blond Ale,Blonde Ale,30,18.93,1.051,1.015,4.75,18.25,5.6,28.39,60,1.034,70.0,2.2130735220729356,Specific Gravity,BIAB,2.2130735220729356,2
+VH Red Ale,Irish Red Ale,92,12.0,1.048,1.012,4.7,25.42,15.38,15.0,60,1.038,70.0,2.5,Specific Gravity,All Grain,2.5,2
+Hoppy honey blonde ale,Blonde Ale,30,15.14,1.051,1.013,5.03,19.64,6.29,15.14,60,1.051,35.0,2.2130735220729356,Specific Gravity,extract,2.2130735220729356,2
+Dicky Duck IPA,American IPA,7,10.0,1.05,1.012,5.01,113.05,5.84,16.4,60,1.031,65.0,3.0,Specific Gravity,All Grain,3.0,2
+Spring Sour,Berliner Weisse,27,18.93,1.031,1.006,3.29,3.02,2.82,22.71,45,1.026,73.0,1.5,Specific Gravity,All Grain,1.5,2
+Russian River Blind Pig Clone,Imperial IPA,86,22.71,1.064,1.013,6.68,75.55,5.89,32.18,60,1.045,70.0,1.25,Specific Gravity,All Grain,1.25,2
+Porter for Oompa Loompas,Foreign Extra Stout,72,19.0,1.0590000000000002,1.015,5.76,46.39,41.83,24.0,60,1.046,60.0,2.297752808988765,Specific Gravity,BIAB,2.297752808988765,5
+WitPale,Witbier,175,25.0,1.033,1.0070000000000001,3.35,23.29,3.08,28.5,60,1.0290000000000001,65.0,2.2309730831973895,Specific Gravity,BIAB,2.2309730831973895,2
+SingleM TripleH,American Pale Ale,10,19.0,1.057,1.01,6.19,140.97,3.83,25.0,90,1.043,70.0,3.0,Specific Gravity,All Grain,3.0,2
+Havrestout,Oatmeal Stout,114,11.0,1.051,1.014,4.81,19.77,40.0,13.5,60,1.041,69.0,2.0342862385321103,Specific Gravity,BIAB,2.0342862385321103,5
+Kjeller 5 Premium Premiant Tsjekkisk Pils 25...,Czech Premium Pale Lager,50,25.0,1.05,1.013,4.85,36.03,3.77,28.0,90,1.045,70.0,2.3292891025641023,Specific Gravity,BIAB,2.3292891025641023,2
+East Coast Harvest IPA,American Light Lager,9,42.0,1.054,1.015,5.06,72.5,5.86,46.0,60,1.0490000000000002,75.0,3.0,Specific Gravity,All Grain,3.0,2
+Saison de Lis (Perennial),Saison,134,20.82,1.061,1.011,6.5,27.41,3.59,28.39,60,1.045,80.0,2.037900446144041,Specific Gravity,BIAB,2.037900446144041,2
+Cascade  centennial  chinook  warrior IPA...,American IPA,7,21.0,1.058,1.012,5.97,67.26,8.49,26.0,80,1.046,65.0,2.0,Specific Gravity,All Grain,2.0,2
+Gooseberry Gose,Gose,82,3.79,1.047,1.012,4.65,8.24,11.92,5.68,30,1.031,57.0,1.5,Specific Gravity,All Grain,1.5,2
+Amber Saison,Saison,134,20.0,1.092,1.028,8.49,44.88,12.32,18.0,20,1.055,35.0,2.037900446144041,Specific Gravity,extract,2.037900446144041,3
+Awesome Recipe,American IPA,7,8.0,1.055,1.013,5.51,58.83,11.21,9.6,60,1.045,70.0,2.5,Specific Gravity,All Grain,2.5,2
+Proper Bock,Traditional Bock,163,18.93,1.074,1.0190000000000001,7.3,0.0,9.43,21.96,60,1.0652940947209153,75.0,1.9616,Specific Gravity,All Grain,1.9616,2
+Captain Hooked on Bitters: Redhook ESB Clone...,Extra Special/Strong Bitter (ESB),68,20.0,1.052,1.013,5.23,32.28,12.88,28.1,75,1.037,60.0,2.5,Specific Gravity,All Grain,2.5,2
+Whiplash Weissbier,Witbier,175,23.0,1.052,1.013,5.13,16.1,3.69,25.0,60,1.048,50.0,2.2309730831973895,Specific Gravity,Partial Mash,2.2309730831973895,2
+2015 Munich Dunkel,Munich Dunkel,108,20.82,1.055,1.013,5.46,28.33,26.07,29.53,90,1.038,87.0,1.5,Specific Gravity,All Grain,1.5,5
