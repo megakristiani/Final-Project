@@ -154,3 +154,15 @@ Boil Gravity akan menampilkan form yang dapat diisi dengan beberapa karakteristi
 Berikut hasil prediksi yang akan ditampilkan:
 
 ![alt text](https://github.com/megakristiani/Final-Project/blob/master/pred4.png)
+
+### 5. Kesimpulan
+
+Dari Final Project ini saya mempelajari banyak hal, yaitu labeling dapat dilakukan secara manual untuk menghindari error, regresi linear akan menghasilkan prediksi yang baik jika korelasi antar kolomnya tinggi, mean digunakan untuk data dengan variasi yang banyak, dan mode digunakan untuk nilai dengan karakteristik khusus (misalnya memiliki interval).
+
+Labeling dapat dilakukan dengan cara clustering dan manual (dengan index). Saya tidak menggunakan metode clustering sehingga nilainya terlalu tepat. Jadi akan lebih baik jika labeling berikutnya dilakukan dengan metode clustering.
+
+Perlu dilakukan beberapa metode prediksi untuk memperoleh hasil yang baik. Namun akan lebih baik jika menggunakan hyper parameter.
+
+Sebaiknya SMOTE dilakukan di akhir prediksi agar machine learning bekerja lebih optimal dan waktu yang digunakan tidak terlalu lama.
+
+Perlu adanya penelitian lebih lanjut mengenai data beer ini, seperti PitchRate, PrimingMethod, PrimingAmount yang jika berhasil diprediksi, sangat memungkinkan bagi Data Scientist membuat prediksi dengan bahan beer, dan lain-lain.
